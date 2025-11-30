@@ -155,15 +155,15 @@ Elle sert de **terrain d’entraînement professionnel** pour l’ensemble des c
 ## 🌍 1. Présence géographique
 
 ### 🏭 **4 Usines de production**
-- 🇫🇷 **France (Lyon)** — plats préparés & produits frais  
-- 🇲🇦 **Maroc (Casablanca)** — épicerie & produits secs  
-- 🇧🇷 **Brésil (São Paulo)** — boissons nutritionnelles  
-- 🇻🇳 **Vietnam (Hô Chi Minh)** — snacks & produits instantanés  
+- 🇫🇷 **France (Lyon)** : plats préparés & produits frais  
+- 🇲🇦 **Maroc (Casablanca)** : épicerie & produits secs  
+- 🇧🇷 **Brésil (São Paulo)** : boissons nutritionnelles  
+- 🇻🇳 **Vietnam (Hô Chi Minh)** : snacks & produits instantanés  
 
 ### 📦 **3 Hubs logistiques internationaux**
-- 🇧🇪 **Belgique (Anvers)** — hub Europe & Middle East  
-- 🇰🇪 **Kenya (Nairobi)** — hub Afrique de l’Est  
-- 🇲🇾 **Malaisie (Kuala Lumpur)** — hub Asie–Pacifique  
+- 🇧🇪 **Belgique (Anvers)** : hub Europe & Middle East  
+- 🇰🇪 **Kenya (Nairobi)** : hub Afrique de l’Est  
+- 🇲🇾 **Malaisie (Kuala Lumpur)** : hub Asie–Pacifique  
 
 ### 🌐 **Distribution dans 18 pays**
 Europe, Afrique, Amérique du Sud, Asie du Sud-Est, Middle East.
@@ -179,10 +179,10 @@ zones de marché, fluctuations saisonnières, effets météo, hétérogénéité
 Gérés dans plus de 18 pays et dans 3 canaux de vente.
 
 ### 🔥 **Marques principales**
-- **NutriBox** — repas prêts-à-consommer & produits frais  
-- **EcoPure** — boissons naturelles & nutraceutiques  
-- **FreshBite** — snacks, biscuits & barres énergétiques  
-- **VitalMeal** — nutrition sportive & health foods  
+- **NutriBox** : repas prêts-à-consommer & produits frais  
+- **EcoPure** : boissons naturelles & nutraceutiques  
+- **FreshBite** : snacks, biscuits & barres énergétiques  
+- **VitalMeal** : nutrition sportive & health foods  
 
 Chaque marque possède des milliers de déclinaisons (formats, saveurs, grammages, packaging).
 
@@ -993,13 +993,13 @@ Ta progression est proprement intégrée.
 FORECASTLAB est un projet vivant.
 Tu peux y ajouter :
 
-de nouveaux cas pratiques
+- de nouveaux cas pratiques
 
-de nouvelles features Python
+- de nouvelles features Python
 
-de nouveaux dashboards
+- de nouveaux dashboards
 
-de nouveaux générateurs de datasets
+- de nouveaux générateurs de datasets
 
 Chaque ajout doit suivre :
 
@@ -1018,17 +1018,17 @@ FORECASTLAB permet un workflow Excel ↔ Power Query ↔ SQL ↔ Python ↔ Powe
 
 Exemple workflow complet :
 
-Nettoyage + structuration → Power Query
+- Nettoyage + structuration → Power Query
 
-Modélisation KPIs → DAX
+- Modélisation KPIs → DAX
 
-Forecast ARIMA / ML → Python
+- Forecast ARIMA / ML → Python
 
-Dashboard Forecast vs Actual → Power BI
+- Dashboard Forecast vs Actual → Power BI
 
-Export final → Excel
+- Export final → Excel
 
-Documentation → Markdown dans VS Code
+- Documentation → Markdown dans VS Code
 
 Versioning → Git
 
@@ -1046,15 +1046,15 @@ Supply Chain Control Tower
 
 En suivant ce workflow, ton dépôt devient :
 
-un portfolio fiable
+- un portfolio fiable
 
-un environnement réel d’apprentissage
+- un environnement réel d’apprentissage
 
-une preuve de maîtrise technique
+- une preuve de maîtrise technique
 
-une démonstration de rigueur
+- une démonstration de rigueur
 
-une plateforme que n’importe quel recruteur peut auditer
+- une plateforme que n’importe quel recruteur peut auditer
 
 
 
