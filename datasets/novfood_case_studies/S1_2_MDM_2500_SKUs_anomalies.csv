@@ -1,0 +1,782 @@
+SKU_ID,Category,Subcategory,Brand,Unit,Weight_g,Lifecycle_Status,Country,MDM_Errors
+SKU00000,FreshBite,Zero,FB,SACH,767,Active,FR,Wrong Weight
+SKU00001,VitalMeal,Vegan,FB,SACH,1223,Active,VN,Bad Unit
+SKU00003,FreshBite,Zero,FB,BOX,1352,Active,VN,Duplicate
+SKU00004,FreshBite,Zero,VM,BAG,865,New,MA,Missing Brand
+SKU00009,EcoPure,Kids,FB,BAG,117,Active,BR,Missing Brand
+SKU00013,FreshBite,Kids,NB,BAG,50,Active,FR,Bad Unit
+SKU00022,EcoPure,Kids,EP,BAG,859,PhaseOut,MA,Duplicate
+SKU00032,VitalMeal,Kids,VM,BOX,1181,PhaseOut,MA,Missing Brand
+SKU00042,EcoPure,Classic,EP,SACH,168,Active,VN,Duplicate
+SKU00045,VitalMeal,Classic,NB,BOX,1571,New,VN,Bad Unit
+SKU00051,EcoPure,Classic,FB,BAG,467,PhaseOut,MA,Missing Brand
+SKU00054,FreshBite,Classic,NB,SACH,1151,New,MA,Missing Brand
+SKU00055,VitalMeal,Zero,EP,BOX,375,New,VN,Missing Brand
+SKU00062,NutriBox,Kids,NB,SACH,123,New,BR,Duplicate
+SKU00069,EcoPure,Classic,VM,BAG,706,Active,VN,Bad Unit
+SKU00075,EcoPure,Zero,NB,BAG,1211,PhaseOut,BR,Bad Unit
+SKU00076,VitalMeal,Classic,VM,BAG,1304,PhaseOut,FR,Wrong Weight
+SKU00079,VitalMeal,Zero,VM,SACH,1125,PhaseOut,MA,Bad Unit
+SKU00083,VitalMeal,Zero,NB,SACH,1041,New,MA,Missing Brand
+SKU00085,FreshBite,Zero,FB,SACH,1804,PhaseOut,FR,Bad Unit
+SKU00086,EcoPure,Zero,EP,SACH,766,Active,FR,Missing Brand
+SKU00088,VitalMeal,Zero,VM,BOX,326,New,BR,Missing Brand
+SKU00089,EcoPure,Vegan,FB,SACH,585,PhaseOut,VN,Bad Unit
+SKU00097,VitalMeal,Classic,FB,BAG,1066,Active,BR,Bad Unit
+SKU00105,EcoPure,Vegan,NB,SACH,669,Active,VN,Missing Brand
+SKU00106,EcoPure,Kids,NB,BOX,522,PhaseOut,VN,Missing Brand
+SKU00108,EcoPure,Zero,EP,SACH,510,Active,VN,Missing Brand
+SKU00109,FreshBite,Kids,NB,BOX,1397,PhaseOut,FR,Missing Brand
+SKU00111,FreshBite,Kids,FB,BAG,895,Active,VN,Wrong Weight
+SKU00112,VitalMeal,Zero,FB,BAG,1214,Active,FR,Bad Unit
+SKU00117,EcoPure,Vegan,NB,BAG,1817,New,MA,Missing Brand
+SKU00119,NutriBox,Vegan,EP,BAG,404,Active,MA,Missing Brand
+SKU00120,VitalMeal,Vegan,EP,SACH,1922,New,BR,Missing Brand
+SKU00128,VitalMeal,Zero,NB,SACH,220,New,VN,Bad Unit
+SKU00132,NutriBox,Classic,VM,BOX,1180,Active,BR,Missing Brand
+SKU00135,NutriBox,Zero,FB,BOX,276,PhaseOut,FR,Duplicate
+SKU00139,NutriBox,Kids,VM,SACH,777,PhaseOut,VN,Missing Brand
+SKU00143,VitalMeal,Classic,EP,SACH,1624,New,FR,Wrong Weight
+SKU00146,FreshBite,Zero,NB,BAG,1898,Active,VN,Duplicate
+SKU00148,NutriBox,Vegan,NB,SACH,542,Active,BR,Wrong Weight
+SKU00149,VitalMeal,Zero,NB,BAG,1341,Active,VN,Duplicate
+SKU00150,FreshBite,Kids,NB,BAG,1598,PhaseOut,BR,Bad Unit
+SKU00153,FreshBite,Classic,NB,BAG,402,New,BR,Missing Brand
+SKU00154,NutriBox,Vegan,NB,BAG,1130,Active,FR,Wrong Weight
+SKU00156,FreshBite,Vegan,NB,SACH,1959,New,FR,Missing Brand
+SKU00160,FreshBite,Zero,EP,SACH,1620,PhaseOut,FR,Missing Brand
+SKU00163,VitalMeal,Vegan,FB,SACH,566,PhaseOut,FR,Wrong Weight
+SKU00169,EcoPure,Vegan,VM,BOX,233,Active,FR,Duplicate
+SKU00171,NutriBox,Kids,EP,BOX,1947,PhaseOut,MA,Missing Brand
+SKU00182,EcoPure,Kids,VM,SACH,1882,New,VN,Duplicate
+SKU00185,NutriBox,Classic,EP,SACH,581,New,MA,Duplicate
+SKU00186,EcoPure,Vegan,FB,BAG,490,Active,BR,Missing Brand
+SKU00191,FreshBite,Classic,VM,SACH,760,PhaseOut,FR,Missing Brand
+SKU00192,NutriBox,Kids,EP,SACH,1624,PhaseOut,BR,Missing Brand
+SKU00194,FreshBite,Kids,FB,SACH,1630,Active,BR,Wrong Weight
+SKU00197,VitalMeal,Kids,EP,BOX,1966,New,MA,Bad Unit
+SKU00199,FreshBite,Zero,VM,BOX,1164,New,MA,Missing Brand
+SKU00200,FreshBite,Classic,EP,BAG,799,Active,BR,Wrong Weight
+SKU00207,VitalMeal,Zero,NB,SACH,1408,Active,BR,Missing Brand
+SKU00211,FreshBite,Vegan,NB,BAG,1657,Active,BR,Missing Brand
+SKU00214,FreshBite,Zero,VM,BOX,1125,Active,MA,Missing Brand
+SKU00217,NutriBox,Vegan,NB,BAG,1699,Active,VN,Bad Unit
+SKU00219,FreshBite,Zero,VM,BAG,182,New,VN,Wrong Weight
+SKU00222,EcoPure,Kids,NB,BOX,1239,Active,FR,Bad Unit
+SKU00224,EcoPure,Classic,NB,BAG,422,New,MA,Missing Brand
+SKU00225,EcoPure,Zero,VM,BAG,1878,PhaseOut,MA,Bad Unit
+SKU00226,NutriBox,Kids,NB,BOX,1551,PhaseOut,FR,Bad Unit
+SKU00227,EcoPure,Classic,VM,BAG,1828,Active,MA,Wrong Weight
+SKU00229,NutriBox,Classic,VM,SACH,881,New,BR,Missing Brand
+SKU00232,VitalMeal,Kids,NB,BAG,731,PhaseOut,MA,Bad Unit
+SKU00237,EcoPure,Zero,EP,BAG,136,Active,VN,Wrong Weight
+SKU00240,EcoPure,Zero,VM,SACH,871,Active,FR,Bad Unit
+SKU00246,NutriBox,Classic,NB,SACH,399,PhaseOut,FR,Bad Unit
+SKU00248,NutriBox,Zero,VM,BOX,730,PhaseOut,MA,Duplicate
+SKU00249,FreshBite,Zero,VM,SACH,1537,Active,MA,Bad Unit
+SKU00254,NutriBox,Kids,EP,BAG,230,New,VN,Duplicate
+SKU00264,FreshBite,Classic,EP,SACH,972,New,VN,Missing Brand
+SKU00269,FreshBite,Classic,FB,SACH,1632,New,FR,Duplicate
+SKU00272,VitalMeal,Kids,NB,SACH,599,New,VN,Bad Unit
+SKU00273,VitalMeal,Kids,VM,BAG,502,PhaseOut,BR,Bad Unit
+SKU00276,NutriBox,Classic,NB,SACH,787,PhaseOut,MA,Missing Brand
+SKU00278,NutriBox,Vegan,FB,SACH,1984,PhaseOut,MA,Bad Unit
+SKU00279,EcoPure,Vegan,NB,SACH,273,PhaseOut,MA,Missing Brand
+SKU00280,VitalMeal,Vegan,EP,BAG,203,PhaseOut,FR,Missing Brand
+SKU00282,EcoPure,Vegan,NB,BAG,400,PhaseOut,BR,Missing Brand
+SKU00284,EcoPure,Zero,FB,SACH,1978,New,FR,Bad Unit
+SKU00290,NutriBox,Zero,NB,BAG,228,New,FR,Duplicate
+SKU00292,NutriBox,Classic,VM,BAG,821,Active,FR,Bad Unit
+SKU00297,FreshBite,Kids,FB,BAG,78,PhaseOut,BR,Duplicate
+SKU00301,NutriBox,Zero,VM,SACH,1943,New,VN,Duplicate
+SKU00307,EcoPure,Vegan,FB,BOX,1624,New,BR,Bad Unit
+SKU00313,FreshBite,Kids,VM,BOX,1237,New,VN,Wrong Weight
+SKU00314,FreshBite,Kids,FB,BAG,1184,Active,MA,Bad Unit
+SKU00315,VitalMeal,Kids,EP,BAG,387,Active,BR,Bad Unit
+SKU00316,FreshBite,Kids,VM,BAG,172,Active,FR,Bad Unit
+SKU00324,EcoPure,Zero,NB,SACH,946,PhaseOut,FR,Bad Unit
+SKU00325,EcoPure,Zero,VM,BAG,330,New,BR,Missing Brand
+SKU00326,FreshBite,Zero,NB,BAG,1116,New,VN,Duplicate
+SKU00342,FreshBite,Classic,NB,SACH,279,New,BR,Missing Brand
+SKU00343,EcoPure,Vegan,VM,SACH,238,Active,VN,Missing Brand
+SKU00352,NutriBox,Vegan,FB,SACH,1568,Active,VN,Missing Brand
+SKU00354,VitalMeal,Zero,NB,BOX,1057,New,FR,Missing Brand
+SKU00357,VitalMeal,Classic,EP,BAG,1019,New,VN,Wrong Weight
+SKU00358,NutriBox,Classic,EP,BAG,1462,Active,BR,Wrong Weight
+SKU00363,EcoPure,Vegan,EP,SACH,1419,Active,VN,Bad Unit
+SKU00364,FreshBite,Zero,EP,BAG,1303,New,VN,Wrong Weight
+SKU00369,FreshBite,Vegan,EP,BOX,1334,New,FR,Duplicate
+SKU00370,VitalMeal,Kids,EP,BOX,1839,PhaseOut,VN,Bad Unit
+SKU00375,VitalMeal,Zero,FB,SACH,1729,PhaseOut,BR,Bad Unit
+SKU00379,NutriBox,Kids,EP,BOX,96,New,BR,Bad Unit
+SKU00381,EcoPure,Classic,VM,SACH,574,New,MA,Bad Unit
+SKU00382,VitalMeal,Classic,EP,BOX,937,PhaseOut,VN,Bad Unit
+SKU00383,NutriBox,Vegan,VM,BOX,257,PhaseOut,VN,Duplicate
+SKU00391,FreshBite,Vegan,EP,BAG,1163,PhaseOut,FR,Bad Unit
+SKU00394,FreshBite,Vegan,VM,SACH,407,Active,BR,Missing Brand
+SKU00395,VitalMeal,Vegan,FB,BAG,1247,New,FR,Missing Brand
+SKU00396,VitalMeal,Zero,VM,BOX,1290,PhaseOut,FR,Bad Unit
+SKU00397,EcoPure,Vegan,VM,SACH,1980,PhaseOut,FR,Missing Brand
+SKU00398,VitalMeal,Zero,FB,BAG,505,Active,VN,Duplicate
+SKU00408,VitalMeal,Kids,FB,BAG,1063,Active,BR,Duplicate
+SKU00410,FreshBite,Kids,EP,SACH,1521,Active,FR,Missing Brand
+SKU00412,EcoPure,Zero,EP,BOX,837,New,VN,Duplicate
+SKU00413,NutriBox,Kids,NB,BAG,313,Active,FR,Bad Unit
+SKU00417,EcoPure,Vegan,VM,BAG,1571,PhaseOut,BR,Wrong Weight
+SKU00418,VitalMeal,Kids,NB,SACH,1322,PhaseOut,MA,Bad Unit
+SKU00419,EcoPure,Zero,NB,BOX,654,PhaseOut,MA,Bad Unit
+SKU00422,EcoPure,Classic,EP,BOX,1679,PhaseOut,FR,Bad Unit
+SKU00426,NutriBox,Kids,EP,BOX,551,New,MA,Duplicate
+SKU00430,NutriBox,Zero,FB,SACH,1438,Active,VN,Missing Brand
+SKU00434,VitalMeal,Classic,FB,SACH,888,Active,BR,Missing Brand
+SKU00435,VitalMeal,Classic,VM,BOX,1480,New,BR,Wrong Weight
+SKU00436,VitalMeal,Kids,FB,BOX,1498,New,FR,Bad Unit
+SKU00438,FreshBite,Classic,NB,SACH,1166,Active,VN,Duplicate
+SKU00443,VitalMeal,Vegan,FB,SACH,727,New,BR,Missing Brand
+SKU00453,EcoPure,Zero,NB,BOX,265,New,VN,Missing Brand
+SKU00455,FreshBite,Classic,NB,SACH,1614,New,MA,Bad Unit
+SKU00456,EcoPure,Classic,EP,BOX,1890,Active,VN,Duplicate
+SKU00457,VitalMeal,Vegan,EP,SACH,1037,Active,VN,Bad Unit
+SKU00460,EcoPure,Vegan,FB,BAG,776,New,BR,Wrong Weight
+SKU00465,FreshBite,Vegan,VM,BOX,1115,New,FR,Wrong Weight
+SKU00472,FreshBite,Vegan,VM,SACH,586,New,MA,Missing Brand
+SKU00474,FreshBite,Classic,EP,SACH,1958,Active,BR,Missing Brand
+SKU00479,VitalMeal,Classic,EP,SACH,1499,Active,VN,Bad Unit
+SKU00480,VitalMeal,Classic,NB,SACH,997,Active,VN,Bad Unit
+SKU00483,EcoPure,Vegan,EP,BOX,1198,PhaseOut,MA,Missing Brand
+SKU00486,FreshBite,Zero,EP,BOX,686,New,FR,Wrong Weight
+SKU00488,NutriBox,Vegan,EP,BAG,1399,Active,FR,Wrong Weight
+SKU00490,VitalMeal,Zero,EP,BAG,1651,New,VN,Missing Brand
+SKU00498,NutriBox,Zero,VM,BAG,854,Active,MA,Missing Brand
+SKU00505,NutriBox,Classic,NB,BOX,1282,Active,MA,Missing Brand
+SKU00508,VitalMeal,Kids,VM,SACH,166,New,BR,Bad Unit
+SKU00509,EcoPure,Classic,EP,BOX,677,New,MA,Missing Brand
+SKU00511,EcoPure,Kids,EP,BAG,1551,PhaseOut,FR,Bad Unit
+SKU00513,EcoPure,Vegan,NB,BAG,544,PhaseOut,VN,Bad Unit
+SKU00516,VitalMeal,Vegan,NB,BOX,872,PhaseOut,FR,Wrong Weight
+SKU00528,EcoPure,Vegan,EP,BOX,1531,New,BR,Duplicate
+SKU00531,VitalMeal,Kids,EP,BOX,589,PhaseOut,MA,Missing Brand
+SKU00532,NutriBox,Vegan,FB,SACH,1557,PhaseOut,BR,Missing Brand
+SKU00534,FreshBite,Kids,FB,BOX,1644,PhaseOut,MA,Bad Unit
+SKU00536,VitalMeal,Classic,NB,BOX,1280,New,FR,Bad Unit
+SKU00540,FreshBite,Vegan,NB,BOX,1852,New,MA,Missing Brand
+SKU00544,NutriBox,Zero,EP,BAG,164,Active,BR,Duplicate
+SKU00545,VitalMeal,Vegan,EP,BAG,1653,New,BR,Bad Unit
+SKU00550,NutriBox,Kids,NB,SACH,443,New,BR,Duplicate
+SKU00562,FreshBite,Kids,NB,BOX,308,Active,MA,Missing Brand
+SKU00565,EcoPure,Zero,FB,BAG,98,Active,VN,Missing Brand
+SKU00572,NutriBox,Vegan,EP,SACH,1050,Active,BR,Bad Unit
+SKU00573,EcoPure,Vegan,NB,BAG,1968,PhaseOut,VN,Bad Unit
+SKU00579,EcoPure,Vegan,VM,BOX,725,Active,MA,Bad Unit
+SKU00581,NutriBox,Vegan,FB,SACH,1101,New,FR,Duplicate
+SKU00582,VitalMeal,Kids,EP,BAG,1406,PhaseOut,FR,Missing Brand
+SKU00583,EcoPure,Classic,EP,BOX,1074,PhaseOut,VN,Missing Brand
+SKU00592,NutriBox,Vegan,FB,BOX,1802,New,BR,Missing Brand
+SKU00596,NutriBox,Kids,EP,SACH,1650,New,BR,Wrong Weight
+SKU00600,NutriBox,Vegan,FB,SACH,1607,Active,VN,Duplicate
+SKU00601,VitalMeal,Classic,NB,BOX,1801,Active,MA,Missing Brand
+SKU00607,VitalMeal,Kids,FB,BAG,1429,New,BR,Missing Brand
+SKU00608,VitalMeal,Classic,NB,SACH,1749,New,BR,Wrong Weight
+SKU00612,VitalMeal,Zero,FB,BAG,230,New,VN,Missing Brand
+SKU00613,EcoPure,Kids,VM,BOX,1539,PhaseOut,MA,Missing Brand
+SKU00618,FreshBite,Kids,VM,BOX,1607,Active,MA,Bad Unit
+SKU00620,VitalMeal,Kids,FB,SACH,1094,PhaseOut,BR,Missing Brand
+SKU00622,FreshBite,Zero,NB,SACH,433,New,VN,Missing Brand
+SKU00624,NutriBox,Classic,FB,SACH,1688,New,MA,Bad Unit
+SKU00631,VitalMeal,Vegan,NB,BOX,834,PhaseOut,BR,Wrong Weight
+SKU00633,NutriBox,Classic,VM,BAG,1261,New,FR,Missing Brand
+SKU00634,EcoPure,Zero,NB,BOX,720,Active,FR,Wrong Weight
+SKU00640,EcoPure,Zero,VM,BAG,563,Active,MA,Duplicate
+SKU00644,VitalMeal,Vegan,FB,SACH,959,Active,VN,Bad Unit
+SKU00649,NutriBox,Classic,VM,BOX,544,New,BR,Duplicate
+SKU00650,FreshBite,Classic,EP,SACH,996,New,MA,Bad Unit
+SKU00658,VitalMeal,Kids,NB,BOX,1729,New,BR,Wrong Weight
+SKU00660,VitalMeal,Zero,FB,BOX,189,PhaseOut,MA,Duplicate
+SKU00663,EcoPure,Classic,NB,BOX,319,PhaseOut,MA,Bad Unit
+SKU00668,NutriBox,Zero,VM,BAG,1410,PhaseOut,VN,Duplicate
+SKU00669,FreshBite,Kids,FB,BAG,555,Active,VN,Bad Unit
+SKU00681,NutriBox,Vegan,VM,SACH,149,New,VN,Wrong Weight
+SKU00682,FreshBite,Vegan,NB,BAG,1731,PhaseOut,FR,Bad Unit
+SKU00685,EcoPure,Zero,FB,BAG,746,Active,VN,Bad Unit
+SKU00686,EcoPure,Vegan,NB,SACH,1102,Active,BR,Duplicate
+SKU00687,NutriBox,Kids,FB,SACH,1966,New,MA,Bad Unit
+SKU00689,EcoPure,Zero,EP,BAG,511,New,BR,Wrong Weight
+SKU00691,EcoPure,Kids,NB,SACH,1216,New,FR,Missing Brand
+SKU00692,NutriBox,Vegan,EP,BAG,439,PhaseOut,MA,Duplicate
+SKU00694,EcoPure,Zero,VM,BAG,731,PhaseOut,VN,Duplicate
+SKU00696,FreshBite,Kids,VM,BAG,384,PhaseOut,MA,Wrong Weight
+SKU00698,EcoPure,Classic,FB,SACH,309,PhaseOut,FR,Wrong Weight
+SKU00700,EcoPure,Vegan,VM,BAG,803,Active,MA,Missing Brand
+SKU00704,NutriBox,Vegan,EP,SACH,769,Active,FR,Missing Brand
+SKU00708,VitalMeal,Kids,VM,BAG,675,New,FR,Wrong Weight
+SKU00715,VitalMeal,Kids,NB,BOX,1795,PhaseOut,MA,Bad Unit
+SKU00716,FreshBite,Vegan,EP,BOX,1003,New,BR,Missing Brand
+SKU00721,FreshBite,Kids,VM,BAG,1034,Active,VN,Missing Brand
+SKU00725,NutriBox,Kids,VM,BOX,757,New,FR,Bad Unit
+SKU00729,VitalMeal,Zero,VM,SACH,1165,New,MA,Missing Brand
+SKU00730,FreshBite,Zero,FB,BAG,1125,PhaseOut,VN,Duplicate
+SKU00733,VitalMeal,Kids,VM,BOX,861,New,BR,Duplicate
+SKU00739,VitalMeal,Vegan,FB,BAG,976,Active,VN,Bad Unit
+SKU00742,EcoPure,Kids,FB,BOX,283,PhaseOut,BR,Missing Brand
+SKU00746,FreshBite,Kids,NB,BAG,628,New,FR,Bad Unit
+SKU00747,FreshBite,Classic,EP,SACH,591,New,BR,Bad Unit
+SKU00748,NutriBox,Classic,VM,BAG,163,New,VN,Wrong Weight
+SKU00749,EcoPure,Classic,FB,BOX,253,PhaseOut,FR,Bad Unit
+SKU00752,EcoPure,Classic,FB,BAG,523,Active,VN,Bad Unit
+SKU00757,FreshBite,Zero,VM,BOX,1995,Active,BR,Duplicate
+SKU00760,VitalMeal,Kids,FB,BAG,564,Active,BR,Wrong Weight
+SKU00764,NutriBox,Kids,VM,BAG,1764,New,VN,Bad Unit
+SKU00765,FreshBite,Kids,EP,BAG,1214,New,VN,Missing Brand
+SKU00766,NutriBox,Kids,NB,BAG,792,Active,BR,Missing Brand
+SKU00767,VitalMeal,Vegan,FB,SACH,1373,New,FR,Missing Brand
+SKU00769,NutriBox,Zero,EP,BAG,360,Active,FR,Bad Unit
+SKU00770,NutriBox,Classic,FB,SACH,520,New,BR,Bad Unit
+SKU00773,VitalMeal,Vegan,NB,BAG,1518,PhaseOut,VN,Wrong Weight
+SKU00774,EcoPure,Kids,FB,BOX,1831,Active,FR,Bad Unit
+SKU00775,NutriBox,Zero,FB,BOX,858,Active,VN,Bad Unit
+SKU00776,NutriBox,Classic,VM,BAG,221,PhaseOut,MA,Bad Unit
+SKU00781,FreshBite,Classic,VM,BAG,401,Active,MA,Missing Brand
+SKU00790,EcoPure,Vegan,NB,BAG,817,PhaseOut,VN,Wrong Weight
+SKU00796,NutriBox,Zero,FB,BOX,335,PhaseOut,VN,Missing Brand
+SKU00797,FreshBite,Kids,NB,BOX,1144,PhaseOut,BR,Missing Brand
+SKU00800,NutriBox,Zero,EP,SACH,935,New,MA,Duplicate
+SKU00801,EcoPure,Kids,NB,BAG,1640,Active,BR,Bad Unit
+SKU00810,FreshBite,Vegan,NB,SACH,1271,Active,FR,Missing Brand
+SKU00811,FreshBite,Classic,NB,SACH,860,Active,BR,Bad Unit
+SKU00813,VitalMeal,Classic,VM,SACH,747,New,BR,Bad Unit
+SKU00815,NutriBox,Vegan,FB,BOX,859,PhaseOut,BR,Bad Unit
+SKU00820,FreshBite,Kids,FB,BOX,1944,PhaseOut,BR,Duplicate
+SKU00827,EcoPure,Vegan,VM,BAG,997,New,MA,Missing Brand
+SKU00828,FreshBite,Zero,EP,BAG,1631,New,VN,Bad Unit
+SKU00829,VitalMeal,Kids,FB,BOX,605,PhaseOut,MA,Wrong Weight
+SKU00831,NutriBox,Kids,VM,SACH,1766,PhaseOut,BR,Missing Brand
+SKU00835,VitalMeal,Classic,NB,BAG,304,New,VN,Wrong Weight
+SKU00836,FreshBite,Zero,FB,BAG,430,PhaseOut,MA,Missing Brand
+SKU00837,NutriBox,Zero,EP,SACH,941,Active,FR,Wrong Weight
+SKU00838,VitalMeal,Zero,EP,BAG,591,New,FR,Bad Unit
+SKU00839,NutriBox,Classic,EP,BOX,1337,New,FR,Duplicate
+SKU00840,FreshBite,Vegan,EP,BAG,1683,PhaseOut,BR,Bad Unit
+SKU00848,FreshBite,Kids,EP,BOX,1348,PhaseOut,FR,Wrong Weight
+SKU00849,EcoPure,Vegan,VM,BAG,822,PhaseOut,BR,Duplicate
+SKU00854,FreshBite,Classic,FB,BOX,260,Active,FR,Missing Brand
+SKU00857,FreshBite,Vegan,EP,SACH,601,New,MA,Bad Unit
+SKU00858,EcoPure,Zero,NB,SACH,75,Active,VN,Bad Unit
+SKU00860,VitalMeal,Zero,NB,BAG,751,Active,VN,Missing Brand
+SKU00868,FreshBite,Classic,EP,SACH,1874,PhaseOut,FR,Missing Brand
+SKU00871,VitalMeal,Classic,EP,BOX,416,Active,FR,Bad Unit
+SKU00873,NutriBox,Vegan,EP,BAG,840,Active,VN,Duplicate
+SKU00888,VitalMeal,Classic,NB,BOX,1024,PhaseOut,VN,Missing Brand
+SKU00890,FreshBite,Kids,EP,BOX,1485,Active,VN,Missing Brand
+SKU00894,VitalMeal,Classic,NB,BAG,1938,Active,VN,Missing Brand
+SKU00904,FreshBite,Classic,VM,SACH,978,PhaseOut,FR,Missing Brand
+SKU00905,EcoPure,Vegan,FB,SACH,1739,New,BR,Missing Brand
+SKU00908,FreshBite,Zero,NB,BOX,471,New,VN,Bad Unit
+SKU00911,NutriBox,Vegan,EP,BAG,695,PhaseOut,BR,Missing Brand
+SKU00914,VitalMeal,Classic,EP,BOX,727,Active,MA,Bad Unit
+SKU00916,EcoPure,Zero,NB,BOX,1289,PhaseOut,VN,Missing Brand
+SKU00917,VitalMeal,Zero,EP,SACH,707,Active,VN,Missing Brand
+SKU00918,VitalMeal,Kids,FB,BAG,1996,PhaseOut,VN,Wrong Weight
+SKU00928,EcoPure,Zero,FB,SACH,119,PhaseOut,MA,Missing Brand
+SKU00929,NutriBox,Zero,NB,BAG,199,New,VN,Missing Brand
+SKU00930,FreshBite,Vegan,FB,BOX,1319,New,FR,Duplicate
+SKU00932,NutriBox,Classic,VM,SACH,1611,New,VN,Wrong Weight
+SKU00933,NutriBox,Vegan,VM,BAG,1725,Active,BR,Bad Unit
+SKU00940,VitalMeal,Vegan,FB,SACH,504,Active,BR,Missing Brand
+SKU00943,NutriBox,Kids,VM,SACH,650,New,VN,Bad Unit
+SKU00945,FreshBite,Zero,VM,SACH,774,Active,FR,Wrong Weight
+SKU00947,VitalMeal,Vegan,VM,SACH,1467,New,VN,Wrong Weight
+SKU00951,VitalMeal,Classic,FB,BAG,1594,New,FR,Missing Brand
+SKU00952,NutriBox,Kids,VM,BOX,128,Active,VN,Bad Unit
+SKU00954,FreshBite,Vegan,VM,BOX,947,New,MA,Duplicate
+SKU00957,NutriBox,Classic,NB,SACH,275,Active,FR,Bad Unit
+SKU00960,NutriBox,Kids,NB,BOX,1107,Active,VN,Duplicate
+SKU00961,NutriBox,Classic,FB,BAG,852,New,VN,Duplicate
+SKU00962,EcoPure,Kids,VM,BOX,791,New,MA,Wrong Weight
+SKU00963,FreshBite,Kids,VM,BOX,180,New,FR,Duplicate
+SKU00965,NutriBox,Zero,NB,BAG,681,PhaseOut,MA,Bad Unit
+SKU00967,EcoPure,Zero,EP,BAG,887,New,MA,Wrong Weight
+SKU00973,FreshBite,Kids,NB,BAG,372,Active,FR,Bad Unit
+SKU00974,VitalMeal,Classic,NB,BAG,1283,Active,MA,Bad Unit
+SKU00976,VitalMeal,Vegan,FB,BOX,378,PhaseOut,BR,Missing Brand
+SKU00980,VitalMeal,Zero,NB,BAG,884,Active,VN,Bad Unit
+SKU00981,VitalMeal,Vegan,VM,SACH,700,New,MA,Missing Brand
+SKU00989,VitalMeal,Zero,FB,BAG,1648,Active,MA,Duplicate
+SKU00993,VitalMeal,Zero,FB,BOX,382,PhaseOut,BR,Bad Unit
+SKU00994,VitalMeal,Vegan,VM,SACH,1370,PhaseOut,MA,Missing Brand
+SKU00995,NutriBox,Classic,VM,SACH,1203,New,MA,Bad Unit
+SKU00997,VitalMeal,Vegan,EP,BOX,1246,PhaseOut,MA,Missing Brand
+SKU01002,NutriBox,Classic,NB,SACH,1479,New,MA,Duplicate
+SKU01003,NutriBox,Classic,VM,BAG,405,PhaseOut,FR,Bad Unit
+SKU01009,VitalMeal,Classic,EP,BOX,980,Active,FR,Duplicate
+SKU01010,NutriBox,Zero,VM,BOX,545,PhaseOut,BR,Wrong Weight
+SKU01012,EcoPure,Classic,FB,BAG,704,PhaseOut,BR,Bad Unit
+SKU01017,FreshBite,Classic,VM,SACH,1793,PhaseOut,MA,Missing Brand
+SKU01021,NutriBox,Classic,VM,SACH,113,PhaseOut,MA,Wrong Weight
+SKU01023,EcoPure,Kids,NB,BOX,819,Active,BR,Missing Brand
+SKU01024,VitalMeal,Vegan,FB,BAG,1737,PhaseOut,BR,Missing Brand
+SKU01027,FreshBite,Zero,VM,SACH,215,Active,BR,Bad Unit
+SKU01029,NutriBox,Zero,EP,SACH,1956,PhaseOut,BR,Duplicate
+SKU01032,NutriBox,Kids,NB,BOX,1614,Active,FR,Bad Unit
+SKU01033,EcoPure,Zero,VM,BAG,1268,New,FR,Bad Unit
+SKU01034,NutriBox,Kids,EP,BAG,555,New,MA,Wrong Weight
+SKU01036,VitalMeal,Classic,EP,BAG,1841,New,FR,Duplicate
+SKU01037,FreshBite,Classic,VM,BOX,842,PhaseOut,FR,Bad Unit
+SKU01038,NutriBox,Kids,FB,BOX,1377,PhaseOut,MA,Bad Unit
+SKU01041,EcoPure,Zero,EP,SACH,1396,Active,VN,Duplicate
+SKU01048,NutriBox,Classic,EP,SACH,1222,PhaseOut,BR,Bad Unit
+SKU01054,NutriBox,Kids,NB,BAG,428,New,MA,Missing Brand
+SKU01056,VitalMeal,Classic,EP,BOX,1064,Active,BR,Duplicate
+SKU01061,NutriBox,Kids,FB,SACH,1502,Active,VN,Missing Brand
+SKU01062,FreshBite,Kids,FB,BAG,1090,Active,FR,Bad Unit
+SKU01067,FreshBite,Vegan,VM,BAG,1829,New,FR,Wrong Weight
+SKU01069,NutriBox,Kids,VM,BOX,125,Active,FR,Missing Brand
+SKU01074,NutriBox,Vegan,NB,BOX,351,Active,FR,Missing Brand
+SKU01076,EcoPure,Kids,EP,BOX,264,Active,BR,Missing Brand
+SKU01078,EcoPure,Kids,NB,BOX,118,Active,VN,Wrong Weight
+SKU01080,FreshBite,Vegan,NB,BAG,1158,PhaseOut,BR,Bad Unit
+SKU01081,NutriBox,Classic,EP,SACH,316,New,VN,Bad Unit
+SKU01082,NutriBox,Kids,EP,SACH,1142,PhaseOut,BR,Wrong Weight
+SKU01084,EcoPure,Classic,NB,SACH,1420,PhaseOut,MA,Missing Brand
+SKU01089,EcoPure,Kids,EP,SACH,472,New,MA,Wrong Weight
+SKU01098,EcoPure,Kids,FB,SACH,1450,Active,MA,Duplicate
+SKU01099,FreshBite,Classic,FB,BOX,1203,Active,VN,Missing Brand
+SKU01100,FreshBite,Classic,EP,BAG,666,Active,VN,Wrong Weight
+SKU01109,FreshBite,Kids,EP,SACH,741,New,FR,Bad Unit
+SKU01117,NutriBox,Zero,FB,BOX,709,New,FR,Bad Unit
+SKU01118,NutriBox,Classic,EP,BOX,1610,Active,VN,Missing Brand
+SKU01122,FreshBite,Kids,EP,BAG,1099,New,FR,Missing Brand
+SKU01127,EcoPure,Vegan,FB,BOX,1586,New,FR,Missing Brand
+SKU01132,EcoPure,Vegan,EP,SACH,1981,PhaseOut,VN,Bad Unit
+SKU01133,FreshBite,Kids,EP,BOX,1633,New,FR,Bad Unit
+SKU01143,FreshBite,Kids,EP,BOX,1278,Active,VN,Missing Brand
+SKU01145,EcoPure,Kids,FB,BOX,736,Active,VN,Missing Brand
+SKU01148,FreshBite,Classic,VM,BOX,1965,PhaseOut,VN,Missing Brand
+SKU01150,NutriBox,Zero,NB,BOX,517,Active,MA,Missing Brand
+SKU01163,EcoPure,Classic,NB,SACH,933,Active,BR,Missing Brand
+SKU01164,NutriBox,Classic,FB,SACH,381,New,MA,Missing Brand
+SKU01166,NutriBox,Vegan,EP,BOX,1950,New,BR,Wrong Weight
+SKU01168,FreshBite,Kids,EP,SACH,1674,PhaseOut,VN,Duplicate
+SKU01169,FreshBite,Kids,EP,BOX,991,PhaseOut,MA,Missing Brand
+SKU01170,VitalMeal,Kids,NB,BOX,305,Active,VN,Missing Brand
+SKU01174,NutriBox,Vegan,NB,BAG,929,Active,FR,Missing Brand
+SKU01176,FreshBite,Kids,VM,BAG,1245,PhaseOut,VN,Missing Brand
+SKU01178,FreshBite,Vegan,NB,BOX,1049,Active,BR,Bad Unit
+SKU01184,VitalMeal,Kids,VM,BAG,749,Active,MA,Missing Brand
+SKU01187,NutriBox,Zero,EP,SACH,1059,PhaseOut,VN,Bad Unit
+SKU01189,VitalMeal,Kids,VM,BAG,853,Active,MA,Duplicate
+SKU01190,FreshBite,Zero,VM,BAG,880,New,BR,Wrong Weight
+SKU01194,EcoPure,Kids,NB,BOX,218,Active,BR,Missing Brand
+SKU01197,FreshBite,Classic,FB,SACH,1027,Active,BR,Missing Brand
+SKU01199,NutriBox,Classic,EP,BOX,195,Active,FR,Bad Unit
+SKU01200,NutriBox,Vegan,FB,BOX,1848,Active,FR,Missing Brand
+SKU01202,VitalMeal,Kids,FB,BAG,1163,PhaseOut,FR,Bad Unit
+SKU01203,EcoPure,Zero,NB,BOX,502,PhaseOut,FR,Missing Brand
+SKU01208,NutriBox,Classic,FB,SACH,1073,PhaseOut,MA,Wrong Weight
+SKU01213,EcoPure,Zero,FB,BAG,831,New,VN,Duplicate
+SKU01214,EcoPure,Classic,EP,BOX,1152,New,FR,Bad Unit
+SKU01221,EcoPure,Vegan,NB,BOX,106,Active,FR,Wrong Weight
+SKU01223,FreshBite,Kids,EP,SACH,235,Active,VN,Bad Unit
+SKU01226,FreshBite,Zero,VM,BAG,837,PhaseOut,MA,Bad Unit
+SKU01228,EcoPure,Vegan,NB,SACH,1860,PhaseOut,BR,Bad Unit
+SKU01231,VitalMeal,Kids,FB,BOX,1513,PhaseOut,FR,Bad Unit
+SKU01233,NutriBox,Classic,VM,BOX,515,New,FR,Bad Unit
+SKU01234,EcoPure,Zero,FB,BOX,1736,PhaseOut,FR,Duplicate
+SKU01239,FreshBite,Kids,EP,BAG,1561,PhaseOut,BR,Missing Brand
+SKU01242,FreshBite,Vegan,VM,SACH,978,Active,VN,Missing Brand
+SKU01244,FreshBite,Vegan,VM,BOX,66,Active,MA,Bad Unit
+SKU01246,EcoPure,Kids,NB,BOX,780,PhaseOut,VN,Duplicate
+SKU01251,EcoPure,Classic,NB,SACH,595,PhaseOut,BR,Wrong Weight
+SKU01253,EcoPure,Classic,VM,BOX,970,Active,FR,Missing Brand
+SKU01260,FreshBite,Classic,EP,BOX,908,PhaseOut,VN,Duplicate
+SKU01265,FreshBite,Classic,FB,SACH,271,Active,FR,Duplicate
+SKU01274,FreshBite,Classic,VM,SACH,1497,Active,BR,Bad Unit
+SKU01276,NutriBox,Classic,EP,SACH,852,Active,FR,Bad Unit
+SKU01278,NutriBox,Classic,FB,BAG,70,Active,FR,Bad Unit
+SKU01288,VitalMeal,Zero,NB,BOX,1738,Active,BR,Missing Brand
+SKU01294,VitalMeal,Vegan,NB,BOX,983,PhaseOut,MA,Bad Unit
+SKU01299,EcoPure,Classic,EP,BAG,818,Active,FR,Bad Unit
+SKU01300,FreshBite,Kids,NB,SACH,1174,PhaseOut,FR,Bad Unit
+SKU01306,VitalMeal,Zero,EP,SACH,286,Active,FR,Missing Brand
+SKU01310,FreshBite,Zero,VM,BOX,555,Active,BR,Missing Brand
+SKU01312,NutriBox,Zero,NB,BAG,1784,Active,BR,Bad Unit
+SKU01315,VitalMeal,Kids,EP,BOX,683,Active,VN,Bad Unit
+SKU01316,EcoPure,Vegan,EP,BAG,1616,Active,BR,Bad Unit
+SKU01319,FreshBite,Vegan,VM,BOX,1870,New,BR,Missing Brand
+SKU01322,NutriBox,Kids,NB,BAG,322,PhaseOut,FR,Duplicate
+SKU01333,VitalMeal,Zero,VM,BAG,1932,Active,VN,Duplicate
+SKU01335,EcoPure,Zero,NB,BAG,1260,PhaseOut,MA,Wrong Weight
+SKU01337,EcoPure,Zero,FB,BAG,1701,PhaseOut,BR,Missing Brand
+SKU01340,FreshBite,Kids,EP,BAG,1987,New,VN,Bad Unit
+SKU01341,VitalMeal,Vegan,NB,SACH,1110,PhaseOut,MA,Bad Unit
+SKU01343,NutriBox,Zero,EP,BOX,186,Active,MA,Missing Brand
+SKU01345,FreshBite,Zero,NB,BOX,276,Active,MA,Bad Unit
+SKU01350,VitalMeal,Kids,EP,SACH,1947,New,MA,Bad Unit
+SKU01357,FreshBite,Vegan,FB,SACH,1308,New,MA,Duplicate
+SKU01360,EcoPure,Kids,FB,SACH,482,Active,VN,Missing Brand
+SKU01362,NutriBox,Vegan,NB,SACH,1048,PhaseOut,BR,Duplicate
+SKU01363,EcoPure,Kids,NB,SACH,149,New,MA,Missing Brand
+SKU01368,NutriBox,Zero,VM,SACH,1600,Active,VN,Bad Unit
+SKU01374,FreshBite,Kids,FB,SACH,590,Active,BR,Bad Unit
+SKU01378,EcoPure,Zero,NB,BAG,1437,Active,MA,Bad Unit
+SKU01380,EcoPure,Zero,FB,BAG,133,PhaseOut,BR,Bad Unit
+SKU01382,FreshBite,Classic,VM,BOX,293,Active,FR,Duplicate
+SKU01391,EcoPure,Vegan,EP,BAG,892,PhaseOut,BR,Duplicate
+SKU01393,EcoPure,Classic,VM,SACH,1577,New,BR,Bad Unit
+SKU01398,VitalMeal,Vegan,NB,BAG,1212,Active,VN,Wrong Weight
+SKU01400,FreshBite,Zero,FB,SACH,1347,New,VN,Bad Unit
+SKU01401,FreshBite,Vegan,NB,SACH,488,PhaseOut,VN,Duplicate
+SKU01403,EcoPure,Classic,FB,SACH,611,Active,MA,Duplicate
+SKU01405,VitalMeal,Kids,NB,BOX,167,Active,MA,Wrong Weight
+SKU01406,EcoPure,Vegan,EP,BAG,1787,PhaseOut,FR,Missing Brand
+SKU01408,FreshBite,Vegan,EP,BAG,1556,Active,BR,Duplicate
+SKU01414,EcoPure,Classic,FB,SACH,1766,Active,BR,Bad Unit
+SKU01419,NutriBox,Vegan,NB,BAG,124,New,BR,Missing Brand
+SKU01420,NutriBox,Vegan,NB,BAG,344,PhaseOut,VN,Missing Brand
+SKU01421,NutriBox,Vegan,FB,SACH,1866,New,VN,Duplicate
+SKU01424,VitalMeal,Zero,NB,SACH,1244,Active,VN,Duplicate
+SKU01425,EcoPure,Kids,VM,BOX,1088,Active,VN,Missing Brand
+SKU01428,EcoPure,Classic,FB,BAG,1159,New,BR,Duplicate
+SKU01429,FreshBite,Zero,VM,SACH,1222,Active,FR,Missing Brand
+SKU01431,NutriBox,Classic,NB,BAG,421,New,FR,Missing Brand
+SKU01439,FreshBite,Vegan,VM,BOX,570,PhaseOut,BR,Bad Unit
+SKU01440,NutriBox,Classic,EP,BOX,1706,Active,MA,Wrong Weight
+SKU01443,FreshBite,Zero,EP,BOX,150,New,FR,Duplicate
+SKU01445,NutriBox,Zero,EP,BAG,1731,PhaseOut,MA,Missing Brand
+SKU01446,VitalMeal,Classic,NB,BOX,1938,PhaseOut,FR,Missing Brand
+SKU01448,EcoPure,Classic,FB,BOX,292,New,VN,Bad Unit
+SKU01449,VitalMeal,Vegan,VM,BAG,802,Active,BR,Bad Unit
+SKU01457,VitalMeal,Classic,FB,BOX,767,PhaseOut,MA,Duplicate
+SKU01465,EcoPure,Kids,FB,BOX,1472,New,FR,Bad Unit
+SKU01466,EcoPure,Classic,FB,BOX,456,New,BR,Wrong Weight
+SKU01470,NutriBox,Kids,FB,BOX,696,New,VN,Missing Brand
+SKU01472,NutriBox,Vegan,FB,BAG,1229,PhaseOut,VN,Duplicate
+SKU01476,FreshBite,Classic,VM,SACH,1026,New,BR,Wrong Weight
+SKU01477,VitalMeal,Kids,FB,BOX,1489,Active,BR,Missing Brand
+SKU01482,EcoPure,Zero,EP,BAG,1335,Active,MA,Missing Brand
+SKU01483,NutriBox,Zero,NB,SACH,1356,New,VN,Bad Unit
+SKU01484,FreshBite,Kids,FB,BOX,899,New,FR,Missing Brand
+SKU01485,FreshBite,Kids,FB,SACH,905,New,FR,Wrong Weight
+SKU01487,NutriBox,Classic,VM,BOX,1961,New,MA,Bad Unit
+SKU01488,NutriBox,Vegan,FB,BOX,329,Active,FR,Missing Brand
+SKU01490,NutriBox,Kids,NB,SACH,1363,New,FR,Missing Brand
+SKU01492,FreshBite,Kids,EP,SACH,1120,Active,BR,Missing Brand
+SKU01501,EcoPure,Vegan,FB,BAG,893,New,BR,Bad Unit
+SKU01502,EcoPure,Vegan,NB,BAG,1386,PhaseOut,VN,Duplicate
+SKU01504,FreshBite,Kids,NB,BOX,717,New,MA,Missing Brand
+SKU01506,VitalMeal,Kids,VM,BAG,429,PhaseOut,BR,Missing Brand
+SKU01511,FreshBite,Vegan,VM,SACH,1543,Active,BR,Missing Brand
+SKU01512,NutriBox,Zero,EP,BOX,795,Active,MA,Bad Unit
+SKU01515,EcoPure,Zero,NB,SACH,654,New,MA,Bad Unit
+SKU01516,FreshBite,Kids,NB,BAG,1115,PhaseOut,FR,Missing Brand
+SKU01523,NutriBox,Zero,FB,BAG,329,PhaseOut,BR,Bad Unit
+SKU01525,FreshBite,Vegan,NB,SACH,667,PhaseOut,VN,Wrong Weight
+SKU01526,FreshBite,Classic,NB,BAG,167,Active,BR,Missing Brand
+SKU01527,NutriBox,Classic,EP,BAG,1310,Active,MA,Duplicate
+SKU01529,VitalMeal,Zero,FB,BAG,1529,New,BR,Missing Brand
+SKU01534,FreshBite,Vegan,FB,BOX,1042,Active,FR,Bad Unit
+SKU01535,EcoPure,Vegan,NB,BAG,1378,PhaseOut,VN,Bad Unit
+SKU01540,FreshBite,Kids,VM,BAG,112,New,MA,Bad Unit
+SKU01542,VitalMeal,Vegan,NB,SACH,1355,New,FR,Duplicate
+SKU01548,NutriBox,Kids,NB,SACH,985,New,FR,Bad Unit
+SKU01549,VitalMeal,Kids,NB,BAG,1165,PhaseOut,BR,Missing Brand
+SKU01556,EcoPure,Zero,FB,SACH,803,Active,FR,Bad Unit
+SKU01557,FreshBite,Classic,EP,BAG,535,PhaseOut,MA,Missing Brand
+SKU01558,FreshBite,Vegan,NB,SACH,1717,New,MA,Duplicate
+SKU01560,FreshBite,Zero,EP,SACH,1437,PhaseOut,VN,Duplicate
+SKU01563,EcoPure,Classic,FB,BAG,1080,Active,VN,Wrong Weight
+SKU01566,NutriBox,Classic,NB,SACH,1270,PhaseOut,FR,Missing Brand
+SKU01567,VitalMeal,Classic,FB,BAG,884,Active,FR,Duplicate
+SKU01568,FreshBite,Kids,FB,BOX,925,Active,FR,Missing Brand
+SKU01571,VitalMeal,Classic,EP,BAG,1051,New,BR,Wrong Weight
+SKU01582,NutriBox,Vegan,EP,SACH,968,PhaseOut,BR,Bad Unit
+SKU01585,EcoPure,Kids,FB,BAG,415,New,BR,Duplicate
+SKU01589,VitalMeal,Kids,FB,SACH,107,New,VN,Missing Brand
+SKU01590,VitalMeal,Zero,VM,BOX,570,Active,FR,Duplicate
+SKU01591,FreshBite,Vegan,VM,BAG,1377,PhaseOut,MA,Duplicate
+SKU01592,VitalMeal,Classic,NB,SACH,1188,PhaseOut,FR,Missing Brand
+SKU01597,NutriBox,Zero,NB,BOX,283,New,MA,Missing Brand
+SKU01600,VitalMeal,Zero,FB,BOX,1663,PhaseOut,VN,Bad Unit
+SKU01608,EcoPure,Kids,FB,BAG,1612,New,FR,Missing Brand
+SKU01609,FreshBite,Classic,FB,BAG,1689,PhaseOut,FR,Duplicate
+SKU01612,VitalMeal,Zero,VM,SACH,373,New,BR,Missing Brand
+SKU01613,NutriBox,Kids,VM,BOX,1060,PhaseOut,MA,Duplicate
+SKU01616,FreshBite,Classic,EP,SACH,333,Active,VN,Missing Brand
+SKU01623,VitalMeal,Zero,FB,BOX,388,PhaseOut,FR,Bad Unit
+SKU01627,NutriBox,Vegan,EP,SACH,1942,PhaseOut,VN,Bad Unit
+SKU01631,FreshBite,Classic,VM,BOX,1505,Active,BR,Missing Brand
+SKU01635,FreshBite,Classic,FB,BAG,1847,Active,FR,Bad Unit
+SKU01637,NutriBox,Zero,EP,BOX,812,New,MA,Missing Brand
+SKU01638,NutriBox,Vegan,NB,BAG,1294,New,FR,Bad Unit
+SKU01639,EcoPure,Kids,VM,SACH,428,Active,VN,Duplicate
+SKU01641,NutriBox,Kids,VM,BAG,1331,PhaseOut,FR,Wrong Weight
+SKU01644,NutriBox,Kids,VM,BAG,1843,Active,BR,Bad Unit
+SKU01650,FreshBite,Kids,NB,BAG,232,Active,FR,Missing Brand
+SKU01651,EcoPure,Zero,EP,BOX,761,PhaseOut,VN,Bad Unit
+SKU01654,EcoPure,Classic,EP,SACH,493,Active,VN,Duplicate
+SKU01664,FreshBite,Zero,FB,BAG,204,Active,VN,Bad Unit
+SKU01665,EcoPure,Vegan,VM,SACH,306,New,MA,Missing Brand
+SKU01668,FreshBite,Classic,VM,SACH,338,Active,BR,Wrong Weight
+SKU01670,EcoPure,Kids,NB,SACH,1625,Active,FR,Bad Unit
+SKU01672,VitalMeal,Zero,NB,BOX,758,PhaseOut,BR,Duplicate
+SKU01675,NutriBox,Vegan,FB,SACH,825,Active,VN,Missing Brand
+SKU01679,EcoPure,Vegan,EP,BAG,186,PhaseOut,MA,Missing Brand
+SKU01692,VitalMeal,Kids,EP,BOX,813,Active,FR,Wrong Weight
+SKU01694,NutriBox,Classic,VM,BAG,991,PhaseOut,FR,Missing Brand
+SKU01699,VitalMeal,Vegan,NB,BAG,1761,New,BR,Wrong Weight
+SKU01700,NutriBox,Kids,FB,BAG,1081,New,VN,Duplicate
+SKU01701,EcoPure,Zero,EP,BAG,856,Active,BR,Missing Brand
+SKU01705,VitalMeal,Kids,EP,BOX,1375,PhaseOut,BR,Duplicate
+SKU01710,NutriBox,Vegan,NB,BAG,1292,PhaseOut,FR,Duplicate
+SKU01714,EcoPure,Vegan,VM,BAG,1937,New,BR,Bad Unit
+SKU01716,VitalMeal,Zero,EP,BOX,797,PhaseOut,FR,Bad Unit
+SKU01718,EcoPure,Kids,EP,SACH,322,Active,VN,Bad Unit
+SKU01719,NutriBox,Zero,EP,BAG,1234,New,VN,Missing Brand
+SKU01724,EcoPure,Kids,EP,SACH,1025,Active,VN,Bad Unit
+SKU01729,EcoPure,Kids,FB,BAG,1186,New,BR,Bad Unit
+SKU01731,FreshBite,Classic,NB,BAG,454,New,FR,Wrong Weight
+SKU01732,FreshBite,Kids,NB,BOX,1771,Active,MA,Duplicate
+SKU01735,VitalMeal,Zero,VM,BOX,827,New,VN,Bad Unit
+SKU01740,VitalMeal,Kids,NB,BOX,1726,New,MA,Missing Brand
+SKU01743,FreshBite,Vegan,FB,BOX,874,PhaseOut,VN,Duplicate
+SKU01744,EcoPure,Kids,EP,BOX,288,Active,MA,Missing Brand
+SKU01746,VitalMeal,Vegan,FB,BOX,1465,PhaseOut,BR,Missing Brand
+SKU01748,FreshBite,Vegan,FB,BOX,1018,PhaseOut,VN,Missing Brand
+SKU01751,VitalMeal,Zero,VM,BOX,244,Active,VN,Missing Brand
+SKU01753,FreshBite,Zero,FB,BOX,1085,PhaseOut,MA,Wrong Weight
+SKU01755,VitalMeal,Kids,VM,BAG,970,New,MA,Duplicate
+SKU01756,NutriBox,Zero,VM,BAG,738,Active,BR,Duplicate
+SKU01758,FreshBite,Vegan,NB,BOX,266,Active,MA,Missing Brand
+SKU01760,VitalMeal,Vegan,VM,BAG,1519,New,FR,Duplicate
+SKU01762,FreshBite,Vegan,VM,BOX,213,Active,MA,Missing Brand
+SKU01767,NutriBox,Kids,EP,BAG,1048,PhaseOut,FR,Missing Brand
+SKU01773,VitalMeal,Zero,FB,BAG,949,New,VN,Bad Unit
+SKU01774,FreshBite,Classic,NB,BOX,1326,Active,VN,Wrong Weight
+SKU01780,EcoPure,Kids,EP,SACH,1253,New,BR,Missing Brand
+SKU01782,VitalMeal,Zero,VM,BOX,1943,PhaseOut,BR,Missing Brand
+SKU01788,NutriBox,Vegan,NB,SACH,1720,Active,FR,Bad Unit
+SKU01790,NutriBox,Vegan,VM,BAG,1550,New,MA,Bad Unit
+SKU01802,FreshBite,Zero,VM,SACH,1068,New,VN,Duplicate
+SKU01804,NutriBox,Classic,VM,BOX,280,Active,BR,Missing Brand
+SKU01806,VitalMeal,Kids,FB,SACH,623,Active,FR,Missing Brand
+SKU01808,VitalMeal,Zero,FB,SACH,139,Active,VN,Duplicate
+SKU01810,EcoPure,Classic,VM,SACH,506,New,MA,Bad Unit
+SKU01818,EcoPure,Zero,FB,BOX,394,Active,BR,Wrong Weight
+SKU01820,FreshBite,Classic,NB,BAG,1501,Active,FR,Bad Unit
+SKU01823,VitalMeal,Kids,FB,BOX,190,Active,VN,Duplicate
+SKU01824,NutriBox,Zero,VM,BAG,464,PhaseOut,VN,Bad Unit
+SKU01825,NutriBox,Classic,FB,BAG,1166,New,VN,Missing Brand
+SKU01831,NutriBox,Vegan,EP,BOX,793,New,VN,Bad Unit
+SKU01832,VitalMeal,Vegan,FB,BAG,512,New,FR,Bad Unit
+SKU01835,EcoPure,Classic,NB,BAG,1755,New,FR,Bad Unit
+SKU01840,EcoPure,Kids,EP,BOX,1809,New,MA,Wrong Weight
+SKU01844,EcoPure,Vegan,VM,BOX,714,PhaseOut,MA,Duplicate
+SKU01845,FreshBite,Zero,VM,BAG,1406,Active,VN,Bad Unit
+SKU01855,EcoPure,Vegan,NB,BAG,1462,Active,BR,Bad Unit
+SKU01858,FreshBite,Classic,EP,BOX,1372,New,FR,Wrong Weight
+SKU01860,EcoPure,Zero,NB,BAG,1444,PhaseOut,BR,Missing Brand
+SKU01863,EcoPure,Classic,NB,SACH,888,Active,FR,Missing Brand
+SKU01865,EcoPure,Classic,FB,SACH,1553,Active,MA,Bad Unit
+SKU01874,EcoPure,Vegan,FB,BAG,1455,PhaseOut,BR,Missing Brand
+SKU01876,NutriBox,Vegan,VM,BAG,1026,New,BR,Duplicate
+SKU01879,NutriBox,Vegan,EP,BAG,1362,New,VN,Missing Brand
+SKU01885,EcoPure,Vegan,NB,BAG,1455,New,MA,Wrong Weight
+SKU01887,VitalMeal,Vegan,NB,SACH,801,PhaseOut,MA,Bad Unit
+SKU01891,EcoPure,Zero,EP,SACH,1435,New,VN,Bad Unit
+SKU01892,NutriBox,Zero,NB,BOX,1454,Active,VN,Bad Unit
+SKU01898,VitalMeal,Vegan,FB,SACH,1187,PhaseOut,FR,Bad Unit
+SKU01900,VitalMeal,Zero,FB,SACH,577,Active,VN,Missing Brand
+SKU01904,FreshBite,Kids,FB,BOX,425,Active,VN,Missing Brand
+SKU01905,EcoPure,Classic,EP,BOX,1577,New,BR,Bad Unit
+SKU01911,EcoPure,Zero,VM,BOX,666,New,VN,Missing Brand
+SKU01913,EcoPure,Zero,FB,BOX,1675,New,BR,Bad Unit
+SKU01916,VitalMeal,Vegan,FB,SACH,1405,Active,MA,Wrong Weight
+SKU01918,FreshBite,Vegan,NB,BAG,962,Active,MA,Duplicate
+SKU01921,NutriBox,Vegan,EP,SACH,737,PhaseOut,MA,Bad Unit
+SKU01922,VitalMeal,Classic,FB,BAG,445,Active,FR,Duplicate
+SKU01925,NutriBox,Classic,FB,BAG,1176,New,BR,Missing Brand
+SKU01926,NutriBox,Vegan,VM,BAG,451,Active,BR,Bad Unit
+SKU01928,VitalMeal,Vegan,FB,BAG,273,New,MA,Bad Unit
+SKU01933,FreshBite,Classic,EP,BOX,165,New,BR,Duplicate
+SKU01935,VitalMeal,Vegan,NB,SACH,275,New,FR,Wrong Weight
+SKU01937,EcoPure,Kids,EP,SACH,231,PhaseOut,BR,Missing Brand
+SKU01938,EcoPure,Zero,EP,SACH,1322,Active,FR,Bad Unit
+SKU01942,EcoPure,Classic,VM,BOX,1465,PhaseOut,FR,Bad Unit
+SKU01943,EcoPure,Kids,NB,BAG,1930,Active,FR,Bad Unit
+SKU01945,VitalMeal,Classic,FB,BOX,943,PhaseOut,VN,Bad Unit
+SKU01948,VitalMeal,Kids,VM,BAG,1159,PhaseOut,MA,Bad Unit
+SKU01950,VitalMeal,Kids,EP,SACH,443,New,MA,Bad Unit
+SKU01955,NutriBox,Classic,VM,BAG,653,Active,BR,Missing Brand
+SKU01960,EcoPure,Zero,NB,BOX,698,Active,MA,Missing Brand
+SKU01963,EcoPure,Vegan,NB,BAG,270,Active,BR,Duplicate
+SKU01965,NutriBox,Kids,EP,SACH,1511,Active,VN,Bad Unit
+SKU01968,NutriBox,Classic,EP,BOX,1265,New,FR,Bad Unit
+SKU01969,NutriBox,Classic,FB,BOX,1593,PhaseOut,MA,Missing Brand
+SKU01974,EcoPure,Vegan,EP,BAG,88,New,MA,Missing Brand
+SKU01977,FreshBite,Kids,NB,BOX,211,PhaseOut,BR,Bad Unit
+SKU01980,NutriBox,Classic,EP,SACH,1177,PhaseOut,VN,Bad Unit
+SKU01981,VitalMeal,Kids,NB,SACH,210,PhaseOut,FR,Missing Brand
+SKU01987,VitalMeal,Zero,EP,BAG,1016,PhaseOut,MA,Bad Unit
+SKU01988,FreshBite,Zero,EP,BAG,939,Active,VN,Duplicate
+SKU01989,NutriBox,Classic,FB,BOX,162,Active,MA,Bad Unit
+SKU01991,FreshBite,Classic,VM,BAG,367,PhaseOut,MA,Missing Brand
+SKU01996,EcoPure,Vegan,VM,BOX,1191,New,MA,Duplicate
+SKU01999,NutriBox,Classic,FB,BAG,1068,PhaseOut,VN,Wrong Weight
+SKU02001,VitalMeal,Classic,VM,BAG,1491,PhaseOut,VN,Missing Brand
+SKU02004,VitalMeal,Kids,FB,BOX,177,Active,BR,Duplicate
+SKU02012,EcoPure,Classic,FB,BAG,561,PhaseOut,VN,Missing Brand
+SKU02016,NutriBox,Kids,FB,BOX,268,Active,BR,Duplicate
+SKU02017,EcoPure,Zero,NB,BAG,492,PhaseOut,VN,Duplicate
+SKU02018,NutriBox,Kids,EP,BAG,1903,PhaseOut,FR,Missing Brand
+SKU02019,VitalMeal,Zero,EP,BAG,364,PhaseOut,VN,Bad Unit
+SKU02026,FreshBite,Classic,NB,SACH,919,New,MA,Wrong Weight
+SKU02027,VitalMeal,Zero,NB,BOX,887,New,BR,Bad Unit
+SKU02029,VitalMeal,Classic,EP,SACH,538,New,FR,Missing Brand
+SKU02035,EcoPure,Vegan,EP,BOX,1730,New,FR,Bad Unit
+SKU02040,NutriBox,Kids,EP,BAG,601,PhaseOut,MA,Bad Unit
+SKU02042,NutriBox,Zero,VM,BAG,372,Active,VN,Wrong Weight
+SKU02043,FreshBite,Kids,EP,BAG,643,PhaseOut,BR,Wrong Weight
+SKU02046,EcoPure,Zero,EP,BOX,1393,PhaseOut,BR,Bad Unit
+SKU02047,FreshBite,Kids,VM,BAG,132,New,FR,Wrong Weight
+SKU02049,NutriBox,Kids,FB,BAG,311,Active,MA,Missing Brand
+SKU02050,EcoPure,Zero,NB,SACH,833,Active,BR,Missing Brand
+SKU02053,VitalMeal,Classic,NB,BAG,963,New,MA,Bad Unit
+SKU02059,FreshBite,Zero,VM,BOX,738,PhaseOut,VN,Duplicate
+SKU02070,NutriBox,Kids,VM,BOX,838,PhaseOut,VN,Duplicate
+SKU02073,EcoPure,Classic,VM,BOX,585,PhaseOut,BR,Missing Brand
+SKU02078,FreshBite,Kids,VM,BAG,283,New,FR,Missing Brand
+SKU02079,VitalMeal,Zero,VM,BAG,1282,New,BR,Duplicate
+SKU02083,EcoPure,Kids,VM,SACH,274,Active,MA,Duplicate
+SKU02084,NutriBox,Kids,FB,BAG,1016,New,MA,Duplicate
+SKU02092,EcoPure,Zero,FB,BOX,1525,Active,FR,Duplicate
+SKU02093,EcoPure,Kids,EP,BOX,1813,PhaseOut,MA,Wrong Weight
+SKU02096,EcoPure,Kids,FB,SACH,702,PhaseOut,FR,Bad Unit
+SKU02107,FreshBite,Zero,VM,BOX,1744,PhaseOut,MA,Bad Unit
+SKU02113,NutriBox,Classic,VM,BAG,1971,New,VN,Missing Brand
+SKU02116,NutriBox,Kids,NB,BAG,1386,PhaseOut,BR,Missing Brand
+SKU02121,VitalMeal,Vegan,EP,SACH,1916,PhaseOut,FR,Missing Brand
+SKU02124,EcoPure,Classic,EP,BOX,1070,PhaseOut,BR,Missing Brand
+SKU02129,VitalMeal,Vegan,EP,SACH,1666,PhaseOut,VN,Wrong Weight
+SKU02130,NutriBox,Classic,NB,BOX,1478,New,MA,Bad Unit
+SKU02137,VitalMeal,Vegan,NB,BOX,1150,Active,FR,Bad Unit
+SKU02138,EcoPure,Kids,FB,SACH,278,Active,BR,Missing Brand
+SKU02142,EcoPure,Classic,FB,SACH,764,Active,FR,Bad Unit
+SKU02143,NutriBox,Classic,FB,SACH,1033,New,MA,Bad Unit
+SKU02144,NutriBox,Kids,FB,BOX,622,PhaseOut,FR,Duplicate
+SKU02160,NutriBox,Classic,VM,SACH,214,New,VN,Wrong Weight
+SKU02164,EcoPure,Vegan,FB,BAG,504,PhaseOut,FR,Bad Unit
+SKU02168,EcoPure,Zero,EP,BOX,242,Active,FR,Missing Brand
+SKU02169,VitalMeal,Kids,VM,BOX,676,PhaseOut,MA,Missing Brand
+SKU02171,EcoPure,Classic,FB,BOX,579,New,FR,Bad Unit
+SKU02172,NutriBox,Vegan,VM,BOX,1083,PhaseOut,VN,Bad Unit
+SKU02176,VitalMeal,Vegan,EP,BOX,498,Active,MA,Bad Unit
+SKU02178,FreshBite,Kids,NB,BAG,918,PhaseOut,BR,Wrong Weight
+SKU02181,NutriBox,Classic,NB,BOX,1780,New,FR,Bad Unit
+SKU02189,FreshBite,Zero,EP,BOX,654,New,FR,Wrong Weight
+SKU02190,EcoPure,Vegan,FB,SACH,981,New,BR,Wrong Weight
+SKU02192,EcoPure,Classic,VM,BOX,971,PhaseOut,MA,Missing Brand
+SKU02196,FreshBite,Vegan,NB,BOX,1582,PhaseOut,FR,Wrong Weight
+SKU02197,VitalMeal,Classic,NB,BAG,1226,New,VN,Duplicate
+SKU02204,NutriBox,Classic,VM,BAG,1079,Active,BR,Missing Brand
+SKU02206,FreshBite,Kids,EP,BAG,1734,New,VN,Duplicate
+SKU02209,NutriBox,Zero,FB,SACH,1558,PhaseOut,FR,Missing Brand
+SKU02210,NutriBox,Vegan,NB,BOX,650,New,BR,Bad Unit
+SKU02213,FreshBite,Classic,VM,BAG,517,PhaseOut,FR,Duplicate
+SKU02217,NutriBox,Zero,EP,BOX,277,Active,FR,Bad Unit
+SKU02218,VitalMeal,Kids,VM,SACH,898,PhaseOut,BR,Missing Brand
+SKU02219,FreshBite,Zero,FB,BAG,198,PhaseOut,VN,Duplicate
+SKU02223,NutriBox,Kids,EP,SACH,1857,Active,FR,Missing Brand
+SKU02228,NutriBox,Classic,FB,BAG,569,New,FR,Bad Unit
+SKU02230,EcoPure,Zero,FB,BAG,436,Active,FR,Wrong Weight
+SKU02232,EcoPure,Classic,NB,SACH,324,New,BR,Duplicate
+SKU02233,FreshBite,Zero,FB,BAG,402,Active,BR,Bad Unit
+SKU02235,VitalMeal,Vegan,NB,SACH,1152,New,VN,Wrong Weight
+SKU02237,FreshBite,Classic,NB,SACH,1709,Active,FR,Bad Unit
+SKU02238,VitalMeal,Vegan,EP,SACH,1275,PhaseOut,FR,Bad Unit
+SKU02239,NutriBox,Kids,VM,BAG,1735,Active,VN,Missing Brand
+SKU02244,VitalMeal,Zero,EP,SACH,1362,PhaseOut,FR,Missing Brand
+SKU02245,EcoPure,Vegan,NB,SACH,1974,PhaseOut,MA,Missing Brand
+SKU02246,NutriBox,Zero,EP,SACH,779,New,BR,Duplicate
+SKU02248,VitalMeal,Vegan,FB,SACH,460,Active,VN,Bad Unit
+SKU02249,NutriBox,Classic,FB,BAG,426,PhaseOut,FR,Duplicate
+SKU02250,NutriBox,Vegan,EP,SACH,1457,Active,VN,Missing Brand
+SKU02256,FreshBite,Kids,EP,SACH,1392,Active,FR,Wrong Weight
+SKU02260,NutriBox,Vegan,NB,SACH,1633,New,BR,Bad Unit
+SKU02261,VitalMeal,Vegan,NB,BAG,752,New,MA,Duplicate
+SKU02262,EcoPure,Kids,EP,BOX,511,Active,FR,Bad Unit
+SKU02265,NutriBox,Classic,NB,BOX,1757,Active,MA,Bad Unit
+SKU02270,NutriBox,Kids,EP,BOX,226,Active,FR,Missing Brand
+SKU02283,VitalMeal,Kids,NB,BAG,941,PhaseOut,BR,Bad Unit
+SKU02287,NutriBox,Classic,VM,BAG,1021,Active,FR,Wrong Weight
+SKU02290,EcoPure,Classic,VM,BAG,72,PhaseOut,FR,Missing Brand
+SKU02291,VitalMeal,Vegan,FB,BAG,204,PhaseOut,VN,Missing Brand
+SKU02292,FreshBite,Kids,EP,SACH,1259,New,BR,Missing Brand
+SKU02296,NutriBox,Kids,NB,BOX,183,Active,BR,Duplicate
+SKU02299,VitalMeal,Vegan,NB,BAG,483,Active,FR,Duplicate
+SKU02300,NutriBox,Vegan,VM,BOX,1095,PhaseOut,FR,Duplicate
+SKU02301,NutriBox,Vegan,EP,SACH,922,New,FR,Wrong Weight
+SKU02302,FreshBite,Vegan,NB,BAG,1673,New,BR,Bad Unit
+SKU02303,NutriBox,Vegan,EP,BAG,1738,New,VN,Wrong Weight
+SKU02305,NutriBox,Vegan,EP,BOX,1152,New,FR,Bad Unit
+SKU02306,EcoPure,Classic,NB,SACH,907,PhaseOut,VN,Bad Unit
+SKU02309,FreshBite,Kids,EP,BAG,225,New,MA,Wrong Weight
+SKU02311,VitalMeal,Kids,VM,BAG,302,Active,VN,Bad Unit
+SKU02322,EcoPure,Classic,FB,BOX,317,Active,VN,Missing Brand
+SKU02329,EcoPure,Vegan,NB,SACH,1637,New,FR,Bad Unit
+SKU02330,VitalMeal,Vegan,VM,BOX,1872,Active,FR,Duplicate
+SKU02331,EcoPure,Classic,NB,BAG,1874,New,MA,Bad Unit
+SKU02335,VitalMeal,Zero,VM,BAG,363,New,VN,Missing Brand
+SKU02336,FreshBite,Zero,FB,BOX,233,New,FR,Wrong Weight
+SKU02340,EcoPure,Zero,NB,BAG,1360,PhaseOut,VN,Bad Unit
+SKU02341,FreshBite,Vegan,VM,BOX,1896,PhaseOut,FR,Bad Unit
+SKU02343,NutriBox,Zero,VM,BOX,1851,PhaseOut,BR,Wrong Weight
+SKU02345,VitalMeal,Classic,NB,BAG,435,New,MA,Duplicate
+SKU02346,FreshBite,Vegan,EP,SACH,1303,Active,BR,Wrong Weight
+SKU02347,EcoPure,Classic,NB,BAG,320,Active,FR,Bad Unit
+SKU02352,FreshBite,Classic,EP,SACH,1396,New,BR,Bad Unit
+SKU02355,FreshBite,Kids,FB,BAG,1276,PhaseOut,BR,Missing Brand
+SKU02361,EcoPure,Zero,FB,BOX,1495,PhaseOut,VN,Bad Unit
+SKU02363,VitalMeal,Classic,FB,SACH,1130,New,FR,Duplicate
+SKU02374,EcoPure,Kids,EP,SACH,1945,Active,BR,Missing Brand
+SKU02375,VitalMeal,Zero,EP,BOX,133,Active,BR,Duplicate
+SKU02378,NutriBox,Classic,NB,SACH,1739,Active,MA,Wrong Weight
+SKU02380,EcoPure,Classic,VM,BAG,655,New,MA,Wrong Weight
+SKU02382,EcoPure,Zero,EP,SACH,182,PhaseOut,FR,Bad Unit
+SKU02384,NutriBox,Zero,NB,BAG,1138,New,MA,Duplicate
+SKU02389,EcoPure,Vegan,VM,SACH,1971,PhaseOut,MA,Missing Brand
+SKU02391,EcoPure,Zero,NB,BOX,1221,New,MA,Duplicate
+SKU02393,FreshBite,Classic,EP,SACH,520,PhaseOut,VN,Bad Unit
+SKU02395,VitalMeal,Zero,VM,BOX,137,Active,FR,Wrong Weight
+SKU02396,VitalMeal,Classic,FB,BOX,1397,Active,BR,Wrong Weight
+SKU02398,FreshBite,Zero,VM,SACH,445,PhaseOut,FR,Bad Unit
+SKU02399,VitalMeal,Vegan,FB,SACH,839,New,MA,Bad Unit
+SKU02403,NutriBox,Vegan,VM,BAG,1359,PhaseOut,MA,Bad Unit
+SKU02408,FreshBite,Kids,FB,SACH,1365,Active,VN,Bad Unit
+SKU02409,VitalMeal,Vegan,NB,SACH,1526,PhaseOut,FR,Wrong Weight
+SKU02412,EcoPure,Vegan,VM,BAG,1005,Active,MA,Missing Brand
+SKU02418,NutriBox,Vegan,EP,BOX,1790,New,BR,Missing Brand
+SKU02420,NutriBox,Classic,VM,SACH,487,New,VN,Bad Unit
+SKU02423,NutriBox,Zero,NB,SACH,1409,New,MA,Bad Unit
+SKU02428,NutriBox,Zero,EP,BAG,636,PhaseOut,MA,Bad Unit
+SKU02430,VitalMeal,Classic,EP,BOX,1236,PhaseOut,MA,Missing Brand
+SKU02433,FreshBite,Kids,EP,BOX,1238,New,VN,Wrong Weight
+SKU02434,EcoPure,Kids,VM,BAG,898,Active,MA,Bad Unit
+SKU02439,FreshBite,Zero,EP,BOX,1997,New,FR,Missing Brand
+SKU02440,NutriBox,Vegan,EP,BAG,1358,Active,MA,Missing Brand
+SKU02442,VitalMeal,Kids,VM,SACH,436,Active,MA,Bad Unit
+SKU02446,NutriBox,Vegan,VM,SACH,765,Active,MA,Wrong Weight
+SKU02447,FreshBite,Zero,VM,BOX,480,New,VN,Missing Brand
+SKU02450,FreshBite,Kids,VM,SACH,1489,New,VN,Duplicate
+SKU02453,FreshBite,Zero,FB,SACH,1489,PhaseOut,MA,Wrong Weight
+SKU02454,NutriBox,Vegan,NB,BOX,75,PhaseOut,VN,Bad Unit
+SKU02459,EcoPure,Kids,FB,BOX,683,PhaseOut,MA,Wrong Weight
+SKU02461,EcoPure,Classic,FB,SACH,1203,Active,BR,Bad Unit
+SKU02465,FreshBite,Zero,FB,SACH,792,PhaseOut,FR,Missing Brand
+SKU02479,NutriBox,Kids,FB,BAG,405,New,BR,Bad Unit
+SKU02483,VitalMeal,Zero,FB,SACH,1525,New,BR,Bad Unit
+SKU02484,FreshBite,Kids,EP,SACH,954,Active,MA,Missing Brand
+SKU02488,VitalMeal,Vegan,FB,BAG,765,New,MA,Wrong Weight
+SKU02489,FreshBite,Kids,FB,SACH,923,New,BR,Missing Brand
+SKU02491,NutriBox,Vegan,NB,SACH,1240,Active,VN,Bad Unit
+SKU02492,VitalMeal,Zero,NB,BAG,1786,Active,FR,Missing Brand
+SKU02497,EcoPure,Vegan,FB,BOX,288,Active,BR,Missing Brand
+SKU02499,VitalMeal,Kids,EP,SACH,513,Active,BR,Bad Unit
