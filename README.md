@@ -257,6 +257,7 @@ Utilisable dans :
 
 ## 🧲 6. Pourquoi NOVAFOOD est idéale pour FORECASTLAB ?
 
+
 | Compétence | NOVAFOOD permet de la travailler |
 |-----------|----------------------------------|
 | Forecasting statistique | Séries multi-périodes, saisonnalité, volatilité |
@@ -492,17 +493,7 @@ Ensuite, suis les sections dans l’ordre :
 
 ---
 
-# 🧭 2. Structure de progression recommandée
 
-Voici **la progression idéale** pour devenir complet :
-
-| Niveau | Section | Objectif métier |
-|-------|---------|-----------------|
-| **Débutant** | 00 + 01 | Comprendre le rôle & la Supply Chain |
-| **Intermédiaire** | 02 + 03 | Maîtriser données + séries temporelles |
-| **Avancé** | 04 + 05 | ML, causalité, forecastability, stocks |
-| **Expert** | 06 + 07 | Process DP complet + demand sensing |
-| **Leader** | 08 | Ethics, gouvernance, auditabilité |
 
 ---
 
@@ -621,9 +612,6 @@ Chaque dataset est :
 ### ✔ Utilise **VS Code + Python + Excel**  
 Le dépôt a été construit pour fonctionner parfaitement avec ce trio.
 
-### ✔ Exécute les notebooks dans :  
-```bash
-notebooks/python/
 
 
 # 🧱 BLOC 5 — RÉSUMÉ DES SECTIONS
@@ -870,7 +858,6 @@ Ces extensions te donnent un environnement **data-friendly** professionnel.
 
 Dans PowerShell / Terminal :
 
-```bash
 cd "C:\Users\Dell\Documents\TEST_Demand_Planner"
 git clone https://github.com/Carlos25-afq/FORECASTLAB.git
 cd FORECASTLAB
@@ -1072,41 +1059,6 @@ une démonstration de rigueur
 une plateforme que n’importe quel recruteur peut auditer
 
 
-# 🌐 Navigation du dépôt FORECASTLAB
-
-FORECASTLAB est structuré en blocs clairs et cohérents.  
-Ce sommaire interactif permet de naviguer instantanément vers chaque section.
-
----
-
-# 📘 **Table des matières**
-
-1. [🏷️ BLOC 0 — En-tête + Badges](#)
-2. [🧱 BLOC 1 — Objectif du dépôt](#)
-3. [🏢 BLOC 2 — Présentation NOVAFOOD GLOBAL](#)
-4. [📂 BLOC 3 — Structure du dépôt](#)
-5. [🧭 BLOC 4 — Mode d’emploi (comment s’exercer)](#)
-6. [📚 BLOC 5 — Résumé premium des sections](#)
-7. [🛠️ BLOC 6 — Workflow VS Code + Git](#)
-8. [🎨 BLOC 7 — Mise en forme & navigation (ce bloc)](#)
-
----
-
-# 🎨 Style & Mise en Page Premium
-
-FORECASTLAB utilise un design GitHub professionnel basé sur :
-
-- titres aérés  
-- emojis thématiques (neutres, élégants, cohérents)  
-- blocs visuels (quotes, tableaux, code)  
-- sections bien séparées  
-- balises HTML pour structurer les espaces  
-
-### Exemple d'encadrement premium :
-
-> ### 💡 *Astuce métier*  
-> La valeur d’un Demand Planner ne vient pas de sa capacité à “prédire”,  
-> mais de sa capacité à **réduire l’incertitude** et **à orienter les décisions S&OP**.
 
 ---
 
