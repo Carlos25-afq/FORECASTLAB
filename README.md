@@ -28,7 +28,7 @@ Apprendre, pratiquer et maîtriser toutes les dimensions du Demand Planning mode
 
 </div>
 
-# 🧱 BLOC 1 — OBJECTIF DU DÉPÔT
+# 🧱 BLOC 1 : OBJECTIF DU DÉPÔT
 
 FORECASTLAB n'est pas un simple dépôt GitHub.  
 C’est un **environnement complet de pratique professionnelle**, construit pour développer une expertise réelle en :
@@ -141,7 +141,7 @@ En complétant l’ensemble du dépôt, tu seras capable de :
 
 
 
-# 🧱 BLOC 2 — L’ENTREPRISE FICTIVE : NOVAFOOD GLOBAL
+# 🧱 BLOC 2 : L’ENTREPRISE FICTIVE - NOVAFOOD GLOBAL
 
 FORECASTLAB repose intégralement sur une entreprise fictive ultra-réaliste :  
 # 🏢 **NOVAFOOD GLOBAL**
@@ -276,7 +276,7 @@ Utilisable dans :
 tableaux XXL, signaux météo, promotions, anomalies, ruptures, modèles ML, consensus forecast, workshops FVA, pipelines SAP/Oracle.
 
 
-# 🧱 BLOC 3 — STRUCTURE DU DÉPÔT FORECASTLAB
+# 🧱 BLOC 3 : STRUCTURE DU DÉPÔT FORECASTLAB
 
 FORECASTLAB suit une architecture **professionnelle**, inspirée des standards GitHub utilisés dans :
 - les équipes **Demand Planning** (S&OP / IBP),
@@ -353,7 +353,7 @@ Chaque sous-dossier représente **une compétence-clé d’un Demand Planner**.
 
 ---
 
-### 📁 **datasets/** — *Les données réalistes NOVAFOOD*
+### 📁 **datasets/** : *Les données réalistes NOVAFOOD*
 
 Divisé en quatre parties :
 
@@ -368,7 +368,7 @@ Les données sont **réalistes**, cohérentes multi-pays, multi-marques, et conf
 
 ---
 
-### 📁 **notebooks/** — *Modélisation Python & R*
+### 📁 **notebooks/** : *Modélisation Python & R*
 
 Deux langages pour refléter les pratiques industrielles :
 
@@ -382,7 +382,7 @@ Chaque notebook est attaché à un cas pratique (ex. S3.2, S4.2, S7.1…).
 
 ---
 
-### 📁 **excel_templates/** — *Outils Excel utilisés par les vrais Demand Planners*
+### 📁 **excel_templates/** : *Outils Excel utilisés par les vrais Demand Planners*
 
 Contient tous les fichiers Excel nécessaires :
 
@@ -397,7 +397,7 @@ C’est exactement ce que gèrent les équipes DP dans les FMCG.
 
 ---
 
-### 📁 **systems/** — *Référence systèmes (SAP, Oracle, Sofco, OMP)*
+### 📁 **systems/** : *Référence systèmes (SAP, Oracle, Sofco, OMP)*
 
 Chaque dossier contient :
 
@@ -414,8 +414,6 @@ Très utile pour les recruteurs et pour les entretiens.
 
 ## 🧩 3. Logique conceptuelle du dépôt
 
-FORECASTLAB n’est pas un simple dépôt —  
-c’est **un jumeau pédagogique d’une vraie entreprise mondial FMCG**.
 
 Les liens sont pensés comme ceci :
 
@@ -461,7 +459,7 @@ FORECASTLAB suit :
 - et la **complexité du métier**.
 
 
-# 🧱 BLOC 4 — MODE D’EMPLOI : COMMENT UTILISER FORECASTLAB ?
+# 🧱 BLOC 4 : MODE D’EMPLOI - COMMENT UTILISER FORECASTLAB ?
 
 FORECASTLAB est conçu comme une **plateforme d’entraînement complète**, structurée, progressive et réaliste.  
 Il te guide étape par étape, comme si tu rejoignais une équipe Demand Planning dans une multinationale FMCG.
@@ -514,7 +512,7 @@ Pour chaque cas :
 
 ---
 
-## ✔️ Étape 1 — Lire le fichier `README.md` du cas  
+## ✔️ Étape 1 : Lire le fichier `README.md` du cas  
 Ce fichier explique :
 
 - objectifs business  
@@ -524,7 +522,7 @@ Ce fichier explique :
 
 ---
 
-## ✔️ Étape 2 — Ouvrir le dataset correspondant  
+## ✔️ Étape 2 : Ouvrir le dataset correspondant  
 Dans :
 
 datasets/novfood_case_studies/
@@ -542,7 +540,7 @@ Les données respectent :
 
 ---
 
-## ✔️ Étape 3 — Choisir ton environnement de travail
+## ✔️ Étape 3 : Choisir ton environnement de travail
 
 ### Option A : **Excel / Power Query / DAX**
 Conviens si le cas implique :
@@ -562,7 +560,7 @@ Conviens si le cas implique :
 
 ---
 
-## ✔️ Étape 4 — Produire les livrables
+## ✔️ Étape 4 : Produire les livrables
 Chaque cas demande un output clair :
 
 - graphiques de séries temporelles  
@@ -614,7 +612,7 @@ Le dépôt a été construit pour fonctionner parfaitement avec ce trio.
 
 
 
-# 🧱 BLOC 5 — RÉSUMÉ DES SECTIONS
+# 🧱 BLOC 5 : RÉSUMÉ DES SECTIONS
 
 FORECASTLAB est structuré en **8 sections**, chacune correspondant à une compétence stratégique du Demand Planner moderne.  
 
@@ -628,7 +626,7 @@ Chaque section contient :
 
 ---
 
-# 🔵 **SECTION 0 — Demand Planner Playbook**
+# 🔵 **SECTION 0 : Demand Planner Playbook**
 📁 `docs/00_Playbook/`
 
 La vision métier.  
@@ -647,7 +645,7 @@ Ce que doit *voir*, *comprendre*, *argumenter* et *défendre* un Demand Planner 
 
 ---
 
-# 🔵 **SECTION 1 — Fundamentals of Supply Chain**
+# 🔵 **SECTION 1 : Fundamentals of Supply Chain**
 📁 `docs/01_Fundamentals_SupplyChain/`
 
 Le contexte Supply Chain indispensable pour donner du sens à la prévision.
@@ -665,7 +663,7 @@ Le contexte Supply Chain indispensable pour donner du sens à la prévision.
 
 ---
 
-# 🔵 **SECTION 2 — Data Tools for Demand Planners**
+# 🔵 **SECTION 2 : Data Tools for Demand Planners**
 📁 `docs/02_Data_Tools/`
 
 Le “stack data” complet du Demand Planner moderne.
@@ -685,7 +683,7 @@ Le “stack data” complet du Demand Planner moderne.
 
 ---
 
-# 🔵 **SECTION 3 — Core Time Series Forecasting**
+# 🔵 **SECTION 3 : Core Time Series Forecasting**
 📁 `docs/03_TimeSeries_Core/`
 
 Les modèles fondamentaux de prévision sur séries temporelles.
@@ -706,7 +704,7 @@ Les modèles fondamentaux de prévision sur séries temporelles.
 
 ---
 
-# 🔵 **SECTION 4 — Advanced Models: Causal, ML, NPD, Promotions**
+# 🔵 **SECTION 4 : Advanced Models: Causal, ML, NPD, Promotions**
 📁 `docs/04_Advanced_Models/`
 
 Ce que les équipes avancées utilisent : causalité, Machine Learning, promotions, NPD.
@@ -725,7 +723,7 @@ Ce que les équipes avancées utilisent : causalité, Machine Learning, promotio
 
 ---
 
-# 🔵 **SECTION 5 — Performance, Forecastability, Inventory & Risks**
+# 🔵 **SECTION 5 : Performance, Forecastability, Inventory & Risks**
 📁 `docs/05_Performance_Risks_Inventory/`
 
 Mesurer, piloter et réduire l’erreur : cœur du métier DP.
@@ -747,7 +745,7 @@ Mesurer, piloter et réduire l’erreur : cœur du métier DP.
 
 ---
 
-# 🔵 **SECTION 6 — Process, Lean Six Sigma & Systems**
+# 🔵 **SECTION 6 : Process, Lean Six Sigma & Systems**
 📁 `docs/06_Process_Lean_Systems/`
 
 Savoir améliorer un process, piloter la performance et maîtriser les systèmes.
@@ -767,7 +765,7 @@ Savoir améliorer un process, piloter la performance et maîtriser les systèmes
 
 ---
 
-# 🔵 **SECTION 7 — Demand Sensing & Real-Time Forecasting**
+# 🔵 **SECTION 7 : Demand Sensing & Real-Time Forecasting**
 📁 `docs/07_Demand_Sensing_RealTime/`
 
 La nouvelle frontière du forecasting : signaux courts, POS, météo, ML adaptatif.
@@ -785,7 +783,7 @@ La nouvelle frontière du forecasting : signaux courts, POS, météo, ML adaptat
 
 ---
 
-# 🔵 **SECTION 8 — Ethics & AI Responsible Forecasting**
+# 🔵 **SECTION 8 : Ethics & AI Responsible Forecasting**
 📁 `docs/08_Ethics_AI/`
 
 Une section essentielle et rare dans le Demand Planning.
@@ -812,7 +810,7 @@ Une section essentielle et rare dans le Demand Planning.
 
 
 
-# 🧱 BLOC 6 — WORKFLOW PROFESSIONNEL (VS CODE + GIT)
+# 🧱 BLOC 6 : WORKFLOW PROFESSIONNEL (VS CODE + GIT)
 
 FORECASTLAB est conçu pour être utilisé comme un vrai environnement de travail.  
 Le workflow suivant correspond **exactement** aux pratiques des Data Engineers, Analysts et Demand Planners travaillant dans :
@@ -894,13 +892,13 @@ Power BI pour les dashboards
 
 Ce workflow suit les mêmes étapes que dans un projet Data Supply Chain réel.
 
-🟦 Étape 1 — Créer une nouvelle branche de travail
+🟦 Étape 1 : Créer une nouvelle branche de travail
 
 Tu ne travailles jamais directement sur main.
 
 git checkout -b feature/S1_2_MDM_Cleanup
 
-🟦 Étape 2 — Exécuter le cas pratique
+🟦 Étape 2 : Exécuter le cas pratique
 
 Tu avances :
 
@@ -916,7 +914,7 @@ construction des graphiques
 
 ajout des outputs dans outputs/
 
-🟦 Étape 3 — Documenter ton travail
+🟦 Étape 3 : Documenter ton travail
 
 Dans VS Code, mets à jour :
 
@@ -939,7 +937,7 @@ les limites & améliorations
 
 ⚠️ Les recruteurs adorent la partie “insights + limites + next steps”.
 
-🟦 Étape 4 — Commit propre
+🟦 Étape 4 : Commit propre
 
 Chaque commit doit être :
 
@@ -957,10 +955,10 @@ git commit -m "S1.2: MDM cleanup — ajout dataset + analyse + recommandations"
 
 Jamais de commit flou ou vide.
 
-🟦 Étape 5 — Push sur GitHub
+🟦 Étape 5 : Push sur GitHub
 git push origin feature/S1_2_MDM_Cleanup
 
-🟦 Étape 6 — Pull Request (PR)
+🟦 Étape 6 : Pull Request (PR)
 
 Depuis GitHub :
 feature/S1_2_MDM_Cleanup → main
@@ -979,7 +977,7 @@ KPIs obtenus
 
 Cette bonne pratique montre que tu sais travailler en équipe.
 
-🟦 Étape 7 — Merge & archivage
+🟦 Étape 7 : Merge & archivage
 
 Après relecture :
 
