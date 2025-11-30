@@ -1,5 +1,5 @@
 # 04 — Advanced Models  
-NOVAFOOD GLOBAL — Causal Models, Machine Learning, Promotions & New Products
+NOVAFOOD GLOBAL : Causal Models, Machine Learning, Promotions & New Products
 
 Après la maîtrise des séries temporelles classiques, le Demand Planner moderne doit comprendre les modèles avancés : causalité, machine learning, uplift promotionnel, cannibalisation produit et prévision des innovations.  
 Chez NOVAFOOD GLOBAL, ces modèles sont utilisés pour les segments stratégiques : innovations FreshBite, pricing NutriBox, promotions VitalMeal et élasticités multi-pays.
@@ -20,7 +20,7 @@ Chez NOVAFOOD GLOBAL, ces modèles sont utilisés pour les segments stratégique
 
 ---
 
-# 🧩 1. Causal Models — comprendre les “drivers” de la demande
+# 🧩 1. Causal Models : comprendre les “drivers” de la demande
 
 Les modèles causaux permettent d’expliquer *pourquoi* la demande évolue.
 
@@ -32,7 +32,7 @@ Les modèles causaux permettent d’expliquer *pourquoi* la demande évolue.
 - **Concurrence** (prix concurrents, cannibalisation interne)  
 - **Marketing** (campagnes, retours TV, influenceurs)
 
-### Modèle causal simple — exemple NutriBox Maroc
+### Modèle causal simple : exemple NutriBox Maroc
 
 ```plaintext
 Demand = β0 + β1*Price + β2*Promo + β3*Distribution + β4*Temperature + ε
@@ -71,7 +71,7 @@ Indispensable pour NOVAFOOD Brésil et Europe où le calendrier promotionnel str
 * Expected ROI Promotionnel
 * Impact sur capacité usine
 
-### 🧩 3. Cannibalisation — impact produit vs produit
+### 🧩 3. Cannibalisation : impact produit vs produit
 
 NOVAFOOD gère plusieurs familles cannibales :
 
@@ -90,7 +90,7 @@ Si FreshBite Zero cannibalise 18 % de FreshBite Classic →
 → Ajustement production / stock
 → Ajustement pricing
 
-### 🧩 4. Machine Learning — Forecasting augmenté
+### 🧩 4. Machine Learning : Forecasting augmenté
 
 NOVAFOOD utilise le ML sur les segments :
 
@@ -181,5 +181,5 @@ Utilisé pour les gammes FreshBite post-lancement.
 
 ### 📌 Navigation
 
-* [Section 5 — Performance, Forecastability, Inventory & Risks]
+* [Section 5 : Performance, Forecastability, Inventory & Risks]
 * [Retour au sommaire FORECASTLAB]
