@@ -114,13 +114,13 @@ FORECASTLAB est conçu pour rendre l’utilisateur :
 
 Ce dépôt s’adresse à :
 
-- 🔸 Étudiants Supply Chain / Data voulant un portfolio solide  
-- 🔸 Jeunes professionnels visant un poste de Demand Planner  
-- 🔸 Analysts / Business Analysts voulant maîtriser la prévision  
-- 🔸 Ingénieurs Supply Chain qui veulent ajouter la brique “Forecasting”  
-- 🔸 Toute personne préparant un entretien DP / S&OP / IBP  
-- 🔸 Managers voulant structurer un training interne
-- 🔸 RH & Entreprises souhaitant évaluer mes compétences
+-  Étudiants Supply Chain / Data voulant un portfolio solide  
+-  Jeunes professionnels visant un poste de Demand Planner  
+-  Analysts / Business Analysts voulant maîtriser la prévision  
+-  Ingénieurs Supply Chain qui veulent ajouter la brique “Forecasting”  
+-  Toute personne préparant un entretien DP / S&OP / IBP  
+-  Managers voulant structurer un training interne
+-  RH & Entreprises souhaitant évaluer mes compétences
 
 
 ---
@@ -292,49 +292,29 @@ L’objectif est simple :
 ## 🗂️ 1. Arborescence générale
 
 
-forecastlab/
-│
-├── README.md
-├── CONTRIBUTING.md
-├
-│
-├── docs/
-│ ├── 00_Playbook/
-│ ├── 01_Fundamentals_SupplyChain/
-│ ├── 02_Data_Tools/
-│ ├── 03_TimeSeries_Core/
-│ ├── 04_Advanced_Models/
-│ ├── 05_Performance_Risks_Inventory/
-│ ├── 06_Process_Lean_Systems/
-│ ├── 07_Demand_Sensing_RealTime/
-│ ├── 08_Ethics_AI/
-│ └── Resources_PDF/
-│
-├── datasets/
-│ ├── novfood_raw/
-│ ├── novfood_cleaned/
-│ ├── novfood_case_studies/
-│ └── generators/
-│
-├── notebooks/
-│ ├── python/
-│ └── r/
-│
-├── excel_templates/
-│ ├── forecasting_models/
-│ ├── S&OP/
-│ ├── DAX_measures/
-│ ├── PowerQuery/
-│ └── VBA_macros/
-│
-└── systems/
-├── SAP_APO/
-├── SAP_IBP/
-├── Oracle_DP/
-├── Sofco/
-└── Comparisons/
-
-
+| Dossier Principal | Sous-Dossier | Thème Principal |
+| :--- | :--- | :--- |
+| **`forecastlab/`** | `README.md`, `CONTRIBUTING.md` | Fichiers de configuration et d'introduction au dépôt. |
+| **`docs/`** | `00_Playbook/` | Playbook du Demand Planner. |
+| | `01_Fundamentals_SupplyChain/` | Fondamentaux de la Supply Chain. |
+| | `02_Data_Tools/` | Outils Data (Excel, SQL, Power Query). |
+| | `03_TimeSeries_Core/` | Modèles de séries temporelles de base. |
+| | `04_Advanced_Models/` | Modèles avancés (Causal, ML, NPD). |
+| | `05_Performance_Risks_Inventory/` | Performance, Risques et Inventaire. |
+| | `06_Process_Lean_Systems/` | Processus, Lean et Systèmes. |
+| | `07_Demand_Sensing_RealTime/` | Prévision en temps réel. |
+| | `08_Ethics_AI/` | Éthique et IA responsable. |
+| | `Resources_PDF/` | Ressources documentaires. |
+| **`datasets/`** | `novfood_raw/`, `novfood_cleaned/` | Données brutes et nettoyées NOVAFOOD. |
+| | `novfood_case_studies/` | Données pour les études de cas. |
+| | `generators/` | Scripts de génération de données. |
+| **`notebooks/`** | `python/`, `r/` | Code pour les modèles (Python et R). |
+| **`excel_templates/`** | `forecasting_models/`, `S&OP/` | Modèles Excel de prévision et S&OP. |
+| | `DAX_measures/`, `PowerQuery/` | Exemples Power Pivot/Query. |
+| | `VBA_macros/` | Macros d'automatisation. |
+| **`systems/`** | `SAP_APO/`, `SAP_IBP/` | Systèmes de planification (SAP). |
+| | `Oracle_DP/`, `Sofco/` | Autres systèmes de planification. |
+| | `Comparisons/` | Analyses comparatives des systèmes. |
 
 ---
 
@@ -499,13 +479,14 @@ Ensuite, suis les sections dans l’ordre :
 
 Chaque cas est organisé ainsi :
 
-S3_2_ARIMA_EcoPure_VN/
-│
-├── README.md → instructions pédagogiques
-├── dataset/ → données propres au cas
-├── excel/ → fichiers Excel nécessaires
-├── notebook/ → script Python ou R
-└── outputs/ → graphiques, KPIs, modèles
+| Dossier | Contenu | Rôle |
+| :--- | :--- | :--- |
+| **`S3_2_ARIMA_EcoPure_VN/`** | | **Dossier de l'exercice (Cas EcoPure Vietnam)** |
+| ├── `README.md` | Fichier Markdown | Instructions et objectifs pédagogiques de l'exercice. |
+| ├── `dataset/` | Fichiers de données | Données brutes et/ou nettoyées spécifiques à l'étude de cas. |
+| ├── `excel/` | Fichiers Excel | Documents de travail ou supports nécessaires à l'exercice. |
+| ├── `notebook/` | Scripts Python ou R | Code d'analyse et de modélisation ARIMA. |
+| └── `outputs/` | Fichiers images/CSV | Résultats : graphiques, indicateurs de performance (KPIs), modèles sauvegardés. |
 
 
 Pour chaque cas :
