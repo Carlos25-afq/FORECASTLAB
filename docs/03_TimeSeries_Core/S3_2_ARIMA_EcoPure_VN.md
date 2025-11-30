@@ -54,15 +54,6 @@ mais de **trouver un modèle ARIMA / SARIMA performant sur la série non transfo
 📂 Fichier cible :  
 `datasets/novfood_case_studies/S3_2_EcoPure_VN_48Mois.csv`
 
-### Colonnes recommandées :
-
-- `Date` (AAAA-MM)  
-- `EcoPure_VN_Demand`  
-- (optionnel) `Temp_Avg`  
-- (optionnel) `Rainfall_mm`  
-- (optionnel) `Promo_Flag`  
-
-Un dataset de démonstration sera généré dans une phase ultérieure.
 
 ---
 
