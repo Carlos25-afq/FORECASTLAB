@@ -7,7 +7,7 @@
 
 ---
 
-```markdown
+
 # S1.3 — Reconstitution d’un Cycle S&OP Trimestriel  
 NOVAFOOD GLOBAL — Gouvernance, Processus & Décision
 
