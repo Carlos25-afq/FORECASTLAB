@@ -1,7 +1,5 @@
 
 
-# ✅ **S1.3 — Reconstituer un Cycle S&OP Trimestriel NOVAFOOD**
-
 📄 Fichier cible :  
 `docs/01_Fundamentals_SupplyChain/S1_3_Cycle_SOP_Trimestriel.md`
 
