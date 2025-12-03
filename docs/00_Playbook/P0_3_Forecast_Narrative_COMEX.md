@@ -1,5 +1,5 @@
 # P0.3 — Construire une Narration Forecast pour le COMEX  
-NOVAFOOD GLOBAL — Communication Exécutive & Data Storytelling
+NOVAFOOD GLOBAL : Communication Exécutive & Data Storytelling
 
 ---
 
@@ -35,7 +35,7 @@ Problématiques :
 
 ---
 
-## 🔵 Étape 1 — Construire la narration en 5 blocs
+## 🔵 Étape 1 : Construire la narration en 5 blocs
 
 1. **Situation actuelle (Actuals YTD)**  
 2. **Tendance prévisionnelle (Next 6 months)**  
@@ -45,7 +45,7 @@ Problématiques :
 
 ---
 
-## 🔵 Étape 2 — Ajouter les éléments clés attendus par un COMEX
+## 🔵 Étape 2 : Ajouter les éléments clés attendus par un COMEX
 
 - 3 messages prioritaires  
 - 3 chiffres majeurs  
@@ -55,7 +55,7 @@ Problématiques :
 
 ---
 
-## 🔵 Étape 3 — Créer la version finale COMEX (10–12 lignes)
+## 🔵 Étape 3 : Créer la version finale COMEX (10–12 lignes)
 
 Style attendu :
 
