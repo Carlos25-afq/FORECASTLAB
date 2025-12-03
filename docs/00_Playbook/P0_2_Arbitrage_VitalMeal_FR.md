@@ -1,5 +1,5 @@
 # P0.2 — Arbitrer un conflit Sales vs Supply  
-Cas : VitalMeal France — Surcharge promotionnelle & capacité usine
+Cas : VitalMeal France : Surcharge promotionnelle & capacité usine
 
 ---
 
@@ -39,7 +39,7 @@ Position des équipes :
 
 ---
 
-## 🔵 Étape 1 — Analyser les données clés
+## 🔵 Étape 1 : Analyser les données clés
 
 - forecast baseline  
 - historique promo VitalMeal  
@@ -51,7 +51,7 @@ Position des équipes :
 
 ---
 
-## 🔵 Étape 2 — Formuler les 3 scénarios possibles
+## 🔵 Étape 2 : Formuler les 3 scénarios possibles
 
 1. **Accepter la promo telle quelle**  
    - impact : rupture FreshBite Kids, service -4 pts
@@ -66,7 +66,7 @@ Position des équipes :
 
 ---
 
-## 🔵 Étape 3 — Justifier le scénario recommandé
+## 🔵 Étape 3 : Justifier le scénario recommandé
 
 Critères :
 
@@ -78,7 +78,7 @@ Critères :
 
 ---
 
-## 🔵 Étape 4 — Message d’arbitrage  
+## 🔵 Étape 4 : Message d’arbitrage  
 (10 lignes, professionnel, argumenté)
 
 Rôle du DP :  
