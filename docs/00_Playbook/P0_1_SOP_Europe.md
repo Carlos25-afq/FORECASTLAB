@@ -1,5 +1,5 @@
 # P0.1 — Diriger une Réunion S&OP Europe  
-NOVAFOOD GLOBAL — Leadership & Alignment
+NOVAFOOD GLOBAL : Leadership & Alignment
 
 ---
 
@@ -36,7 +36,7 @@ Points critiques du mois :
 
 ---
 
-## 🔵 Étape 1 — Préparer le pack S&OP Europe
+## 🔵 Étape 1 : Préparer le pack S&OP Europe
 
 Le pack doit inclure :
 
@@ -49,7 +49,7 @@ Le pack doit inclure :
 
 ---
 
-## 🔵 Étape 2 — Animer la réunion
+## 🔵 Étape 2 : Animer la réunion
 
 Vous devez :
 
@@ -61,7 +61,7 @@ Vous devez :
 
 ---
 
-## 🔵 Étape 3 — Prendre 5 décisions clés
+## 🔵 Étape 3 : Prendre 5 décisions clés
 
 Pour ce trimestre, choisir et justifier :
 
@@ -73,7 +73,7 @@ Pour ce trimestre, choisir et justifier :
 
 ---
 
-## 🔵 Étape 4 — Rédiger le compte rendu exécutif (10 lignes)
+## 🔵 Étape 4 : Rédiger le compte rendu exécutif (10 lignes)
 
 Un CR de niveau COMEX doit :
 
