@@ -1,5 +1,5 @@
 # P0.2 — Arbitrer un conflit Sales vs Supply  
-Cas : VitalMeal France : Surcharge promotionnelle & capacité usine
+Cas : VitalMeal France - Surcharge promotionnelle & capacité usine
 
 ---
 
