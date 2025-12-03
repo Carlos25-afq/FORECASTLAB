@@ -1,5 +1,5 @@
 # S1.2 — Master Data Management (MDM) : Correction de 2500 SKUs  
-NOVAFOOD GLOBAL — Standardisation & Gouvernance Données
+NOVAFOOD GLOBAL : Standardisation & Gouvernance Données
 
 ---
 
@@ -33,7 +33,7 @@ Contient anomalies :
 
 ## 2. Travail demandé
 
-### 🔵 Étape 1 — Identifier & catégoriser les erreurs  
+### 🔵 Étape 1 : Identifier & catégoriser les erreurs  
 Créer un tableau :
 
 | Type d’erreur | Volumes | Exemples |
@@ -45,7 +45,7 @@ Créer un tableau :
 
 ---
 
-### 🔵 Étape 2 — Appliquer le standard NOVAFOOD
+### 🔵 Étape 2 : Appliquer le standard NOVAFOOD
 
 Format SKU :
 
@@ -70,7 +70,7 @@ Catégories autorisées :
 
 ---
 
-### 🔵 Étape 3 — Scripts de nettoyage (Power Query ou Python)
+### 🔵 Étape 3 : Scripts de nettoyage (Power Query ou Python)
 
 #### Exemple PQ :
 
@@ -85,7 +85,7 @@ Exemple Python :
 df["SKU"] = df["SKU"].str.upper().str.replace(" ", "-")
 df["Brand"] = df["Brand"].replace(mapping_brand)
 
-🔵 Étape 4 — Générer le master final
+🔵 Étape 4 : Générer le master final
 
 📄
 datasets/novfood_cleaned/S1_2_MDM_2500_SKUs_clean.csv
@@ -94,7 +94,7 @@ Ajout colonne :
 
 MDM_Status : OK / Warning / Error corrected
 
-🔵 Étape 5 — Proposer un modèle de gouvernance MDM
+🔵 Étape 5 : Proposer un modèle de gouvernance MDM
 
 Inclure :
 
