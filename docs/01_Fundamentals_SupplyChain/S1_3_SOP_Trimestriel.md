@@ -1,5 +1,4 @@
 
----
 
 # ✅ **S1.3 — Reconstituer un Cycle S&OP Trimestriel NOVAFOOD**
 
