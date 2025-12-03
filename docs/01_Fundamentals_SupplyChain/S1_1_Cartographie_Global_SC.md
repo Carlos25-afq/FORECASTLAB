@@ -1,5 +1,5 @@
 # S1.1 — Cartographie Globale de la Supply Chain NOVAFOOD  
-NOVAFOOD GLOBAL — Vision bout-en-bout (E2E)
+NOVAFOOD GLOBAL : Vision bout-en-bout (E2E)
 
 ---
 
@@ -27,7 +27,7 @@ Construire une **cartographie Supply Chain complète** de NOVAFOOD GLOBAL couvra
 
 ## 2. Travail demandé
 
-### 🔵 Étape 1 — Construire la cartographie E2E
+### 🔵 Étape 1 : Construire la cartographie E2E
 
 Inclure :
 
@@ -43,7 +43,7 @@ Inclure :
 
 ---
 
-### 🔵 Étape 2 — Ajouter les flux informationnels
+### 🔵 Étape 2 : Ajouter les flux informationnels
 
 Exemples :
 
@@ -55,7 +55,7 @@ Exemples :
 
 ---
 
-### 🔵 Étape 3 — Ajouter les flux financiers
+### 🔵 Étape 3 : Ajouter les flux financiers
 
 - coûts logistiques  
 - BFR (stocks + créances + dettes)  
@@ -65,7 +65,7 @@ Exemples :
 
 ---
 
-### 🔵 Étape 4 — Proposer une cartographie finale (Graphviz ou Draw.io)
+### 🔵 Étape 4 : Proposer une cartographie finale (Graphviz ou Draw.io)
 
 Livrer :  
 `docs/01_Fundamentals_SupplyChain/S1_1_SupplyChain_Map.png`
