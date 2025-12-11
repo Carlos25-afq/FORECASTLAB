@@ -1047,55 +1047,55 @@ Chaque section principale du dépôt est présentée comme un module premium.
 
 ---
 
-## 🔵 **00 — Demand Planner Playbook**  
+## 🔵 **00 Demand Planner Playbook**  
 📁 `docs/00_Playbook/`  
 🧠 Vision métier, décisions, consensus, influence, réunions S&OP.
 
 ---
 
-## 🔵 **01 — Fundamentals of Supply Chain**  
+## 🔵 **01 Fundamentals of Supply Chain**  
 📁 `docs/01_Fundamentals_SupplyChain/`  
 🏭 Contexte supply, flux, MDM, S&OP / IBP.
 
 ---
 
-## 🔵 **02 — Data Tools for Demand Planners**  
+## 🔵 **02 Data Tools for Demand Planners**  
 📁 `docs/02_Data_Tools/`  
 📊 Excel, Power Query, DAX, SQL, pipelines data.
 
 ---
 
-## 🔵 **03 — Core Time Series Forecasting**  
+## 🔵 **03 Core Time Series Forecasting**  
 📁 `docs/03_TimeSeries_Core/`  
 📈 Séries temporelles fondamentales : Moving Average, SES, Holt-Winters, ARIMA, Croston.
 
 ---
 
-## 🔵 **04 — Advanced Forecasting & Causal Models**  
+## 🔵 **04 Advanced Forecasting & Causal Models**  
 📁 `docs/04_Advanced_Models/`  
 🤖 ML, causalité, promotions, cannibalisation, NPD.
 
 ---
 
-## 🔵 **05 — Performance, Inventory & Risks**  
+## 🔵 **05 Performance, Inventory & Risks**  
 📁 `docs/05_Performance_Risks_Inventory/`  
 📉 Erreurs, forecastability, sécurité stock, crises supply.
 
 ---
 
-## 🔵 **06 — Process, Lean Six Sigma & Systems**  
+## 🔵 **06 Process, Lean Six Sigma & Systems**  
 📁 `docs/06_Process_Lean_Systems/`  
 🔧 Lean, DMAIC, SAP IBP / APO, Oracle, Sofco, intégrations.
 
 ---
 
-## 🔵 **07 — Demand Sensing & Real-Time**  
+## 🔵 **07 Demand Sensing & Real-Time**  
 📁 `docs/07_Demand_Sensing_RealTime/`  
 ⚡ POS + météo + modèles courts horizons + ML adaptatif.
 
 ---
 
-## 🔵 **08 — Ethics & Responsible AI**  
+## 🔵 **08 Ethics & Responsible AI**  
 📁 `docs/08_Ethics_AI/`  
 ⚖️ Gouvernance des modèles, biais algorithmiques, transparence.
 
