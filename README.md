@@ -1187,26 +1187,3 @@ Vous pouvez :
 - intégrer dans vos projets d’apprentissage
 
 Tant que vous **ne les présentez pas comme des données réelles d’entreprise**.
-
-
-
-# 🎉 Conclusion
-
-FORECASTLAB est un environnement complet pour se former, pratiquer et devenir opérationnel en :
-
-- Demand Planning  
-- Forecasting avancé  
-- Analyse multi-pays  
-- S&OP / IBP  
-- ML & causalité  
-- Demand Sensing  
-- Process & systèmes  
-- Excel / Power Query / Power BI / Python  
-
-Il constitue un **portfolio robuste**, une **preuve de maturité professionnelle**,  
-et un **outil d’apprentissage unique** dans le domaine Supply Chain & Data.
-
-Si vous cherchez un dépôt solide, riche, structuré et orienté industrie :  
-**FORECASTLAB est votre laboratoire.**
-
----
