@@ -28,7 +28,7 @@ Apprendre, pratiquer et maîtriser toutes les dimensions du Demand Planning mode
 
 </div>
 
-# 🧱 BLOC 1 : OBJECTIF DU DÉPÔT
+# BLOC 1 : OBJECTIF DU DÉPÔT
 
 FORECASTLAB n'est pas un simple dépôt GitHub.  
 C’est un **environnement complet de pratique professionnelle**, construit pour développer une expertise réelle en :
@@ -44,7 +44,7 @@ C’est un **environnement complet de pratique professionnelle**, construit pour
 
 ---
 
-## 🎯 Finalité du dépôt
+##  Finalité du dépôt
 
 Ce dépôt a été créé pour :
 
