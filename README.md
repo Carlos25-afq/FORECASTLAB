@@ -21,7 +21,7 @@
 Apprendre, pratiquer et maîtriser toutes les dimensions du Demand Planning moderne, construit autour d’une entreprise fictive réaliste :  
 </span>
 
-## 🏢 **NOVAFOOD GLOBAL**  
+##  **NOVAFOOD GLOBAL**  
 <sub>Multinationale agroalimentaire (18 pays, 32 000 SKU, retail & e-commerce)</sub>
 
 ---
@@ -48,14 +48,14 @@ C’est un **environnement complet de pratique professionnelle**, construit pour
 
 Ce dépôt a été créé pour :
 
-### ✔️ **Acquérir et maîtriser les compétences clés du Demand Planner moderne**  
+###  **Acquérir et maîtriser les compétences clés du Demand Planner moderne**  
 Depuis les fondamentaux Supply Chain jusqu’aux modèles ML avancés utilisés dans les grands groupes FMCG et Retail.
 
-### ✔️ **Disposer d’un terrain d’entraînement professionnel reproduisant une entreprise multinationale**  
+###  **Disposer d’un terrain d’entraînement professionnel reproduisant une entreprise multinationale**  
 Grâce à **NOVAFOOD GLOBAL**, tu pratiques sur des datasets réalistes :  
 multi-pays, multi-canaux, multi-marques, saisonnalité, ruptures, promotions, météo…
 
-### ✔️ **Structurer un portfolio Data & Supply Chain puissant**  
+###  **Structurer un portfolio Data & Supply Chain puissant**  
 Chaque section contient :  
 - des cas pratiques complets  
 - des datasets professionnels  
@@ -63,7 +63,7 @@ Chaque section contient :
 - des pipelines (Excel, Power Query, DAX, SQL, Python)  
 - des exercices “comme en entreprise”
 
-### ✔️ **Construire un niveau d’analyse digne d’un S&OP Manager**  
+###  **Construire un niveau d’analyse digne d’un S&OP Manager**  
 Tu apprends à :  
 - argumenter un consensus forecast  
 - arbitrer Sales vs Supply  
@@ -72,12 +72,12 @@ Tu apprends à :
 
 ---
 
-## 💡 Pourquoi ce dépôt est différent ?
+##  Pourquoi ce dépôt est différent ?
 
-### 🔹 1. **Une immersion totale dans une entreprise fictive réaliste**
+###  1. **Une immersion totale dans une entreprise fictive réaliste**
 Avec NOVAFOOD GLOBAL, tu travailles exactement comme un Demand Planner de FMCG mondial.
 
-### 🔹 2. **Des datasets massifs & multidimensionnels**
+###  2. **Des datasets massifs & multidimensionnels**
 Certains jeux dépassent 1 à 4 millions de lignes, incluant :
 - POS journaliers  
 - météo  
@@ -88,10 +88,10 @@ Certains jeux dépassent 1 à 4 millions de lignes, incluant :
 - historiques multi-pays  
 - stock et supply signals  
 
-### 🔹 3. **Une structure modulaire et progressive**
+###  3. **Une structure modulaire et progressive**
 Chaque section représente **une étape du métier**, du plus simple au plus complexe.
 
-### 🔹 4. **Un environnement multi-outils**
+###  4. **Un environnement multi-outils**
 Le dépôt te fait travailler simultanément sur :
 - Excel avancé (Power Query, Power Pivot, DAX)  
 - Power BI  
@@ -100,7 +100,7 @@ Le dépôt te fait travailler simultanément sur :
 - SQL  
 - systèmes SAP / Oracle  
 
-### 🔹 5. **Un objectif clair : devenir opérationnel**
+###  5. **Un objectif clair : devenir opérationnel**
 FORECASTLAB est conçu pour rendre l’utilisateur :
 - autonome  
 - analytique  
@@ -110,7 +110,7 @@ FORECASTLAB est conçu pour rendre l’utilisateur :
 
 ---
 
-## 🧩 Pour qui est fait FORECASTLAB ?
+##  Pour qui est fait FORECASTLAB ?
 
 Ce dépôt s’adresse à :
 
@@ -125,7 +125,7 @@ Ce dépôt s’adresse à :
 
 ---
 
-## 🏆 Résultat attendu
+##  Résultat attendu
 
 En complétant l’ensemble du dépôt, tu seras capable de :
 
@@ -141,10 +141,10 @@ En complétant l’ensemble du dépôt, tu seras capable de :
 
 
 
-# 🧱 BLOC 2 : L’ENTREPRISE FICTIVE - NOVAFOOD GLOBAL
+#  BLOC 2 : L’ENTREPRISE FICTIVE - NOVAFOOD GLOBAL
 
 FORECASTLAB repose intégralement sur une entreprise fictive ultra-réaliste :  
-# 🏢 **NOVAFOOD GLOBAL**
+#  **NOVAFOOD GLOBAL**
 
 NOVAFOOD est une **multinationale agroalimentaire** opérant dans **18 pays**, spécialisée dans la production, la distribution et la commercialisation de produits alimentaires packagés, frais et prêts-à-consommer.
 
@@ -152,20 +152,20 @@ Elle sert de **terrain d’entraînement professionnel** pour l’ensemble des c
 
 ---
 
-## 🌍 1. Présence géographique
+##  1. Présence géographique
 
-### 🏭 **4 Usines de production**
+###  **4 Usines de production**
 - 🇫🇷 **France (Lyon)** : plats préparés & produits frais  
 - 🇲🇦 **Maroc (Casablanca)** : épicerie & produits secs  
 - 🇧🇷 **Brésil (São Paulo)** : boissons nutritionnelles  
 - 🇻🇳 **Vietnam (Hô Chi Minh)** : snacks & produits instantanés  
 
-### 📦 **3 Hubs logistiques internationaux**
+###  **3 Hubs logistiques internationaux**
 - 🇧🇪 **Belgique (Anvers)** : hub Europe & Middle East  
 - 🇰🇪 **Kenya (Nairobi)** : hub Afrique de l’Est  
 - 🇲🇾 **Malaisie (Kuala Lumpur)** : hub Asie–Pacifique  
 
-### 🌐 **Distribution dans 18 pays**
+###  **Distribution dans 18 pays**
 Europe, Afrique, Amérique du Sud, Asie du Sud-Est, Middle East.
 
 NOVAFOOD reproduit la **complexité réelle** d’un FMCG mondial :  
@@ -173,9 +173,9 @@ zones de marché, fluctuations saisonnières, effets météo, hétérogénéité
 
 ---
 
-## 🧺 2. Portefeuille produits
+##  2. Portefeuille produits
 
-### 📦 **+32 000 SKUs actifs**
+###  **+32 000 SKUs actifs**
 Gérés dans plus de 18 pays et dans 3 canaux de vente.
 
 ### 🔥 **Marques principales**
